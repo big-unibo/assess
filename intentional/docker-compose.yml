@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  oracledb:
+    hostname: oracledb
+    container_name: oracledb
+    build: dockerimages/oracle11g
+    # image: oracleinanutshell/oracle-xe-11g:latest
+    ports:
+      - "${ORACLE_PORT}:${ORACLE_PORT}"
+      - 5500:5500
+    volumes:
+      - ./resources/:/data

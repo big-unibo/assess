@@ -1,0 +1,66 @@
+python: '!HOME!/experiments-assess/intentional/src/main/python/'
+oracleclient: '!HOME!/experiments-assess/intentional/libs/instantclient_21_1'
+webapp: sales_fact_1997
+cubes:
+  - dataMart: xe
+    factTable: sales_fact_1997
+    synonyms:
+      - SALES
+    metadata: xe
+    dbms: oracle
+    ip: 127.0.0.1
+    port: 1521
+    create: false
+    importmembers: false
+    user: foodmart
+    pwd: oracle
+  - dataMart: xe
+    factTable: ft
+    synonyms:
+      - ssbora
+    metadata: xe
+    dbms: oracle
+    ip: 127.0.0.1
+    port: 1521
+    create: false
+    importmembers: false
+    user: ssb_flight
+    pwd: oracle
+  - dataMart: xe
+    factTable: ft
+    synonyms:
+      - covid
+      - COVID19
+      - COVID-19
+    metadata: xe
+    dbms: oracle
+    ip: 127.0.0.1
+    port: 1521
+    create: false
+    importmembers: false
+    user: covid_weekly
+    pwd: oracle
+  - dataMart: xe
+    factTable: frencheletricityft
+    synonyms:
+      - CONSOMMATION_ELECTRIQUE
+    metadata: xe
+    dbms: oracle
+    ip: 127.0.0.1
+    port: 1521
+    create: false
+    importmembers: false
+    user: frenchelectricity
+    pwd: oracle
+  - dataMart: xe
+    factTable: frencheletricityft_ext
+    synonyms:
+      - CONSOMMATION_ELECTRIQUE_EXT
+    metadata: xe
+    dbms: oracle
+    ip: 127.0.0.1
+    port: 1521
+    create: false
+    importmembers: false
+    user: frenchelectricityext
+    pwd: oracle
