@@ -1,5 +1,5 @@
-python: '!HOME!/experiments-assess/intentional/src/main/python/'
-oracleclient: '!HOME!/experiments-assess/intentional/libs/instantclient_21_1'
+python: '!HOME!/src/main/python/'
+oracleclient: '!HOME!/libs/instantclient_21_1'
 webapp: sales_fact_1997
 cubes:
   - dataMart: xe
