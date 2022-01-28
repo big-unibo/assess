@@ -16,8 +16,9 @@ export LD_LIBRARY_PATH=!HOME!/libs/instantclient_21_1
 until [ -f resources/.ready ]
 do
      docker logs oracledb | tail -n 10
-     sleep 5
+     sleep 10
 done
 echo "All databases have been imported!"
+sleep 60
 
 ./gradlew --stacktrace
