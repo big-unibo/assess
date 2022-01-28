@@ -12,6 +12,7 @@ class TestAssess(unittest.TestCase):
     def test_all(self):
         byclause = ["category"]
         measure = "quantity"
+        using = "difference_foo"
         k = 3
 
         X = pd.DataFrame([["a", 1, 2, 3, 4, 5], ["b", 11, 12, 13, 14, 15], ["c", 21, 22, 23, 24, 25]])
@@ -22,8 +23,8 @@ class TestAssess(unittest.TestCase):
         res = compute_auto_using(res[0][0], k, measure, byclause)
         self.assertTrue(len(res) == 3)
 
-        res = compute_auto_labels(res[0][0], k, measure, byclause)
-        self.assertTrue(len(res) == 3)
+        res = compute_auto_labels(res[0][0], k, measure, byclause, using)
+        self.assertTrue(len(res) == 2)
 
 
 if __name__ == '__main__':
