@@ -19,17 +19,11 @@ jobs:
       - name: Run docker
         run: |
           cd intentional
-          cp .env.example .env
-          cp src/main/resources/config.example.yml src/main/resources/config.yml
           chmod +x *.sh
+          ./init.sh
           ./build.sh
           ./download.sh
           ./start.sh
-      - name: Build
-        run: |
-          cd intentional
-          chmod +x ./gradlew
-          ./gradlew
       - name: Stop docker
         run: |
           cd intentional
