@@ -19,6 +19,5 @@ do
      sleep 10
 done
 echo "All databases have been imported!"
-sleep 60
 
 ./gradlew --stacktrace
