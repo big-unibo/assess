@@ -5,10 +5,32 @@ import it.unibo.assessext.AssessExt
 import it.unibo.conversational.datatypes.DependencyGraph
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.api.Assertions.fail
+import org.junit.jupiter.api.BeforeAll
 import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.fail
 import java.util.*
+import io.github.cdimascio.dotenv.Dotenv
+import it.w4bo.database.waitForIt
 
 class TestAssessExt {
+
+    companion object {
+        private const val path = "resources/assess/output/"
+        val dotenv = Dotenv.load()
+        val WAIT: Int = 1000 * 60 * 10
+
+        @BeforeAll
+        @JvmStatic
+        internal fun beforeAll() {
+            try {
+                waitForIt(dotenv.get("ORACLE_DBMS"), dotenv.get("ORACLE_IP"), dotenv.get("ORACLE_PORT").toInt(), dotenv.get("ORACLE_DB"), "foodmart", dotenv.get("ORACLE_PWD"), WAIT)
+                waitForIt(dotenv.get("ORACLE_DBMS"), dotenv.get("ORACLE_IP"), dotenv.get("ORACLE_PORT").toInt(), dotenv.get("ORACLE_DB"), "covid_weekly", dotenv.get("ORACLE_PWD"), WAIT)
+                waitForIt(dotenv.get("ORACLE_DBMS"), dotenv.get("ORACLE_IP"), dotenv.get("ORACLE_PORT").toInt(), dotenv.get("ORACLE_DB"), "ssb_flight", dotenv.get("ORACLE_PWD"), WAIT)
+            } catch (e: Exception) {
+                fail { e.message!! }
+            }
+        }
+    }
 
     @Test
     fun testRefinement1() {
@@ -493,9 +515,5 @@ class TestAssessExt {
             fail()
         } catch (e: Exception) {
         }
-    }
-
-    companion object {
-        private const val path = "resources/assess/output/"
     }
 }
