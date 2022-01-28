@@ -17,7 +17,7 @@ class TestAssessExt {
     companion object {
         private const val path = "resources/assess/output/"
         val dotenv = Dotenv.load()
-        val WAIT: Int = 1000 * 60 * 10
+        val WAIT: Int = 1000 * 60 * 1
 
         @BeforeAll
         @JvmStatic
