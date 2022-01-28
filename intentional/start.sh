@@ -13,6 +13,10 @@ docker-compose up --build -d
 
 export LD_LIBRARY_PATH=!HOME!/libs/instantclient_21_1
 
-docker logs oracledb
+until [ -f resources/.ready ]
+do
+     sleep 5
+done
+echo "All databases have been imported!"
 
 ./gradlew --stacktrace
