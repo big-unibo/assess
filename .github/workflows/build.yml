@@ -17,6 +17,7 @@ jobs:
           python-version: '3.6.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - name: Run docker
+        continue-on-error: true
         run: |
           cd intentional
           chmod +x *.sh
@@ -24,7 +25,8 @@ jobs:
           ./build.sh
           ./download.sh
           ./start.sh
-      - name: Stop docker
-        run: |
-          cd intentional
           ./stop.sh
+      - uses: actions/upload-artifact@v2
+        with:
+          name: tests
+          path: assess/intentional/build/reports/tests
