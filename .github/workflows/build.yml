@@ -19,6 +19,7 @@ jobs:
       - name: Run docker
         # continue-on-error: true
         run: |
+          pwd
           cd intentional
           chmod +x *.sh
           ./init.sh
@@ -30,4 +31,4 @@ jobs:
         if: always()
         with:
           name: tests
-          path: assess/intentional/build/reports/tests
+          path: /home/runner/work/assess/assess/intentional/build/reports/tests
