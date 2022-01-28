@@ -17,6 +17,12 @@ jobs:
           python-version: '3.6.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
           architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - name: Run docker
+        run: |
+          cd intentional/src/main/python
+          python3 -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+      - name: Run docker
         # continue-on-error: true
         run: |
           pwd
