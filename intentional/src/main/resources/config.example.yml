@@ -15,7 +15,7 @@ cubes:
     user: foodmart
     pwd: oracle
   - dataMart: xe
-    factTable: ft
+    factTable: lineorder2
     synonyms:
       - ssbora
     metadata: xe
