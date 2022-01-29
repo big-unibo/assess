@@ -37,7 +37,7 @@ dependencies {
     implementation 'javax:javaee-api:8.0.1'
     implementation 'io.ktor:ktor-server-servlet:1.4.3'
     // kotlin
-    implementation 'de.mpicbg.scicomp:krangl:0.15'
+    implementation 'de.mpicbg.scicomp:krangl:0.15.3'
     implementation 'io.github.cdimascio:dotenv-kotlin:6.2.2'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     // java
