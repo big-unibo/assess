@@ -64,8 +64,9 @@ jobs:
         run: |
           cd intentional
           ./gradlew shadowJar
+          cd ..
           mkdir -p dist/
-          cp build/libs/* dist/
+          cp intentional/build/libs/* dist/
       - name: Release
         run: |
           npm install
