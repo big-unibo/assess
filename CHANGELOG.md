@@ -1,3 +1,15 @@
+### [1.0.1](https://github.com/big-unibo/assess/compare/1.0.0...1.0.1) (2022-01-31)
+
+
+### Bug Fixes
+
+* release ([#55](https://github.com/big-unibo/assess/issues/55)) ([869b631](https://github.com/big-unibo/assess/commit/869b63134a3eb604ddc4b0919a71a13f8af2f615))
+
+
+### Dependency updates
+
+* **deps:** update dependency org.antlr:antlr4 to v4.9.3 ([e9ae9bd](https://github.com/big-unibo/assess/commit/e9ae9bd450661a39632ef27ee348b51ce41e89d5))
+
 ## 1.0.0 (2022-01-31)
 
 
