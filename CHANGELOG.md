@@ -1,3 +1,22 @@
+### [1.0.2](https://github.com/big-unibo/assess/compare/1.0.1...1.0.2) (2022-02-01)
+
+
+### Bug Fixes
+
+* python dep ([c38b9ee](https://github.com/big-unibo/assess/commit/c38b9ee1eaa65cfec226a4e314b87673a071e613))
+
+
+### Dependency updates
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.9.0 ([efc6502](https://github.com/big-unibo/assess/commit/efc650258fe660190e54deb4b7ba76036cc60dc8))
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.12.0 ([ac145d2](https://github.com/big-unibo/assess/commit/ac145d2103e5ca249185e1bece85738b47656280))
+* **deps:** update dependency org.jgrapht:jgrapht-core to v1.5.1 ([c6e9a18](https://github.com/big-unibo/assess/commit/c6e9a185bf8e3615312b019d6f0d8c154047108c))
+* **deps:** update dependency requests to v2.27.1 ([7f64a69](https://github.com/big-unibo/assess/commit/7f64a6921d5671c55e4b71b1adea1e7d91052fa5))
+* **deps:** update dependency scikit-learn to v0.24.2 ([e366df0](https://github.com/big-unibo/assess/commit/e366df06a0028e30cbbac586e9e3748db80e88dd))
+* **deps:** update dependency scipy to v1.7.3 ([f8b7023](https://github.com/big-unibo/assess/commit/f8b7023fd21da31242324e55bdff6fb7432b5d31))
+* **deps:** update dependency sqlalchemy to v1.4.31 ([b057b22](https://github.com/big-unibo/assess/commit/b057b22dc6a75390fcee85ab167cb4a2284466f4))
+* **deps:** update dependency yellowbrick to v1.3.post1 ([49840e5](https://github.com/big-unibo/assess/commit/49840e56ad9ebc33340ed17f1991b17e91e06855))
+
 ### [1.0.1](https://github.com/big-unibo/assess/compare/1.0.0...1.0.1) (2022-01-31)
 
 
