@@ -20,15 +20,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-20.04
-    strategy:
-      matrix:
-        java: [ '14' ]
+    # strategy:
+    #   matrix:
+    #     java: [ '14' ]
     steps:
       - uses: actions/checkout@v2.4.0
       - uses: actions/setup-java@v2.5.0
         with:
           distribution: 'adopt'
-          java-version: ${{ matrix.java }}
+          java-version: '14' # ${{ matrix.java }}
       - uses: actions/setup-python@v2
         with:
           python-version: '3.6.9' # Version range or exact version of a Python version to use, using SemVer's version range syntax
@@ -65,7 +65,7 @@ jobs:
       - uses: actions/setup-java@v2.5.0
         with:
           distribution: 'adopt'
-          java-version: ${{ matrix.java }}
+          java-version: '14'
       - name: Deploy
         run: |
           cd intentional
