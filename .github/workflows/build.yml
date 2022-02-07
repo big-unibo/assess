@@ -2,13 +2,6 @@ name: "build"
 
 on:
   push:
-    tags: '*'
-    branches:
-      - '**'
-    # branches-ignore:
-    #   - 'autodelivery**'
-    #   - 'bump-**'
-    #   - 'renovate/**'
     paths-ignore:
       - 'CHANGELOG.md'
       - 'LICENSE'
