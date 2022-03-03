@@ -41,7 +41,7 @@ jobs:
           ./download.sh
           ./start.sh
           ./stop.sh
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         if: always()
         with:
           name: tests
