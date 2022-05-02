@@ -2,7 +2,7 @@
 
 [![build](https://github.com/big-unibo/assess/actions/workflows/build.yml/badge.svg)](https://github.com/big-unibo/assess/actions/workflows/build.yml)
 
-Implementation of the intentional operation from the TKDE ASSESS paper.
+Implementation of "Suggesting assess queries for interactive analysis of multidimensional data" to appear on the TKDE journal.
 
 ## Running the experiments
 
