@@ -39,7 +39,7 @@ dependencies {
     implementation 'io.ktor:ktor-server-servlet:2.0.2'
     // kotlin
     implementation 'de.mpicbg.scicomp:krangl:0.15.3'
-    implementation 'io.github.cdimascio:dotenv-kotlin:6.2.2'
+    implementation 'io.github.cdimascio:dotenv-kotlin:6.3.0'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     // java
     implementation 'mysql:mysql-connector-java:8.0.29'
