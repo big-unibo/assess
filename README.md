@@ -2,7 +2,11 @@
 
 [![build](https://github.com/big-unibo/assess/actions/workflows/build.yml/badge.svg)](https://github.com/big-unibo/assess/actions/workflows/build.yml)
 
-Implementation of "Suggesting assess queries for interactive analysis of multidimensional data" to appear on the TKDE journal.
+## Research papers
+
+Please refer/cite to the following research paper:
+
+- Matteo Francia, Matteo Golfarelli, Patrick Marcel, Stefano Rizzi, and Panos Vassiliadis. "Suggesting assess queries for interactive analysis of multidimensional data." IEEE Transactions on Knowledge and Data Engineering (2022).
 
 ## Running the experiments
 
