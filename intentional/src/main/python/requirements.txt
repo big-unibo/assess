@@ -8,4 +8,4 @@ scipy==1.5.4
 yellowbrick==1.4
 requests==2.27.1
 cx-Oracle==8.3.0
-SQLAlchemy==1.4.38
+SQLAlchemy==1.4.39
