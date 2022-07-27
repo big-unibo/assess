@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/big-unibo/assess/compare/1.0.4...1.0.5) (2022-07-27)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.9.0 ([7acbe35](https://github.com/big-unibo/assess/commit/7acbe35a4179252e2abc0c843f1fac7960565bcb))
+
 ## [1.0.4](https://github.com/big-unibo/assess/compare/1.0.3...1.0.4) (2022-07-27)
 
 
