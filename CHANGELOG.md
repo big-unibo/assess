@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/big-unibo/assess/compare/1.0.6...1.0.7) (2022-08-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.6.0 ([21d240d](https://github.com/big-unibo/assess/commit/21d240d3c77c9248acee8cbcbd7ecdcdeb064aa8))
+
 ## [1.0.6](https://github.com/big-unibo/assess/compare/1.0.5...1.0.6) (2022-07-30)
 
 
