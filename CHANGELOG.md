@@ -1,3 +1,16 @@
+## [1.0.9](https://github.com/big-unibo/assess/compare/1.0.8...1.0.9) (2022-08-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2 ([7e9dfb4](https://github.com/big-unibo/assess/commit/7e9dfb491dfcfd0e621a26a54033b36f84200bf7))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.10 ([1cc1632](https://github.com/big-unibo/assess/commit/1cc163268b712c7c403da7416e5bcff1c32a964e))
+* **deps:** update node.js to 16.17 ([6834312](https://github.com/big-unibo/assess/commit/683431200f006fc11f1b5bc0a6a7850970348d0b))
+
 ## [1.0.8](https://github.com/big-unibo/assess/compare/1.0.7...1.0.8) (2022-08-11)
 
 
