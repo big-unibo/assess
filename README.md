@@ -6,7 +6,7 @@
 
 Please refer/cite to the following research paper:
 
-- Matteo Francia, Matteo Golfarelli, Patrick Marcel, Stefano Rizzi, and Panos Vassiliadis. "Suggesting assess queries for interactive analysis of multidimensional data." IEEE Transactions on Knowledge and Data Engineering (2022).
+- Matteo Francia, Matteo Golfarelli, Patrick Marcel, Stefano Rizzi, and Panos Vassiliadis. "Suggesting assess queries for interactive analysis of multidimensional data." **IEEE Transactions on Knowledge and Data Engineering** (2022). DOI: https://doi.org/10.1109/TKDE.2022.3171516
 
 ## Running the experiments
 
