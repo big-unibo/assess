@@ -1,3 +1,18 @@
+## [1.0.11](https://github.com/big-unibo/assess/compare/1.0.10...1.0.11) (2022-09-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.13.4 ([f57d7af](https://github.com/big-unibo/assess/commit/f57d7aff4051aa80eb5220fdd5ef7cddf99d3439))
+
+
+### Dependency updates
+
+* **deps:** update dependency requests to v2.28.1 ([538e4c7](https://github.com/big-unibo/assess/commit/538e4c738e87b90e614e68759b1d9bf0374bb0a0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.11 ([0975c98](https://github.com/big-unibo/assess/commit/0975c98c605e5715d58c6384cce92854fc82984a))
+* **deps:** update dependency sqlalchemy to v1.4.41 ([3923513](https://github.com/big-unibo/assess/commit/3923513e96df283488530843dbcd652fce7c7a6a))
+* **deps:** update dependency yellowbrick to v1.5 ([adaf374](https://github.com/big-unibo/assess/commit/adaf374cda7651fabdf7c9886547fda6f503a7fb))
+
 ## [1.0.10](https://github.com/big-unibo/assess/compare/1.0.9...1.0.10) (2022-08-21)
 
 
