@@ -1,3 +1,15 @@
+## [1.0.15](https://github.com/big-unibo/assess/compare/1.0.14...1.0.15) (2022-09-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.7.0 ([1e37b6c](https://github.com/big-unibo/assess/commit/1e37b6cbe9d255fc2593404339b007750650393e))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.5.0 ([a19f14d](https://github.com/big-unibo/assess/commit/a19f14db607c2aadebd6dfc202d6f24405ca70ae))
+
 ## [1.0.14](https://github.com/big-unibo/assess/compare/1.0.13...1.0.14) (2022-09-13)
 
 
