@@ -1,3 +1,15 @@
+## [1.0.20](https://github.com/big-unibo/assess/compare/1.0.19...1.0.20) (2022-10-21)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.9.1 ([009428e](https://github.com/big-unibo/assess/commit/009428e12ca1af0059eef03e5c06f2bd6574dec2))
+
+
+### Dependency updates
+
+* **deps:** update dependency matplotlib to v3.6.0 ([f0ea34c](https://github.com/big-unibo/assess/commit/f0ea34cd1a5ff29fd87e4a1cdbfcfebd2dcbf90f))
+
 ## [1.0.19](https://github.com/big-unibo/assess/compare/1.0.18...1.0.19) (2022-09-21)
 
 
