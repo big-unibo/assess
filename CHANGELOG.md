@@ -1,3 +1,24 @@
+## [1.0.21](https://github.com/big-unibo/assess/compare/1.0.20...1.0.21) (2022-10-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.1.2 ([2ba3267](https://github.com/big-unibo/assess/commit/2ba3267b705259c1981e0193c9514e61d4332d9f))
+
+
+### Dependency updates
+
+* **deps:** update dependency gradle to v6.9.3 ([3c00a53](https://github.com/big-unibo/assess/commit/3c00a5311fe5f8fa47ed9c21492ecb2547626041))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.13 ([5241218](https://github.com/big-unibo/assess/commit/52412189628eebb715e005ea2b05dcc2fcd88c25))
+* **deps:** update dependency sqlalchemy to v1.4.42 ([e5c8f63](https://github.com/big-unibo/assess/commit/e5c8f63b9f959994cdd74fe25df463d0bbcee960))
+* **deps:** update plugin org.gretty to v3.0.9 ([cf70aa7](https://github.com/big-unibo/assess/commit/cf70aa72702f670da4a6d4a98ee7e2b7bbadde02))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.7.20 ([a70b278](https://github.com/big-unibo/assess/commit/a70b278c38edaa736d84ccaf93cb5ae43b7d5445))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.5.1 ([9274da0](https://github.com/big-unibo/assess/commit/9274da0635b950b717a00aee9747fd647c93fa55))
+
 ## [1.0.20](https://github.com/big-unibo/assess/compare/1.0.19...1.0.20) (2022-10-21)
 
 
