@@ -1,3 +1,21 @@
+## [1.0.26](https://github.com/big-unibo/assess/compare/1.0.25...1.0.26) (2022-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20220924 ([698b842](https://github.com/big-unibo/assess/commit/698b8426d42fa30fbbc174d661ede197b5bc0933))
+
+
+### Dependency updates
+
+* **deps:** update node.js to 16.18 ([199f9a9](https://github.com/big-unibo/assess/commit/199f9a96116883a750786cc0b34ce1f7202b6af6))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.1.0 ([bac3a2f](https://github.com/big-unibo/assess/commit/bac3a2f449de1700bf78613cedba2ec0834415a1))
+* **deps:** update actions/setup-java action to v3.6.0 ([0cc180e](https://github.com/big-unibo/assess/commit/0cc180e4efb542cc83d97e8721ed46b7146cd60c))
+
 ## [1.0.25](https://github.com/big-unibo/assess/compare/1.0.24...1.0.25) (2022-10-23)
 
 
