@@ -1,3 +1,16 @@
+## [1.0.27](https://github.com/big-unibo/assess/compare/1.0.26...1.0.27) (2022-12-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.1.3 ([b85aa56](https://github.com/big-unibo/assess/commit/b85aa56d03fefbb5f8e0e97871d06870289cc7d1))
+
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn to v1 ([5ff2e68](https://github.com/big-unibo/assess/commit/5ff2e68ab8b6fb73a8af561c08ef0f290f467dee))
+* **deps:** update dependency sqlalchemy to v1.4.44 ([8ed4437](https://github.com/big-unibo/assess/commit/8ed443762bb8efe44d8893425e7b809ccfbdb46d))
+
 ## [1.0.26](https://github.com/big-unibo/assess/compare/1.0.25...1.0.26) (2022-10-23)
 
 
