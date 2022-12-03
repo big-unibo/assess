@@ -1,3 +1,17 @@
+## [1.0.28](https://github.com/big-unibo/assess/compare/1.0.27...1.0.28) (2022-12-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.5 ([b68efb2](https://github.com/big-unibo/assess/commit/b68efb2bfbeac6f6fd19e8a8e6b7577d899e40cf))
+
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn to v1.1.3 ([fec6861](https://github.com/big-unibo/assess/commit/fec68611993bc1efea89a090b78c3bb265a3a2bb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.15 ([529b887](https://github.com/big-unibo/assess/commit/529b88719c115e5ecdf5bb1efcc39b1e9360acd7))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.7.22 ([71ca2f3](https://github.com/big-unibo/assess/commit/71ca2f30c7d9cc11010b35fd0ed7824d584ebaeb))
+
 ## [1.0.27](https://github.com/big-unibo/assess/compare/1.0.26...1.0.27) (2022-12-02)
 
 
