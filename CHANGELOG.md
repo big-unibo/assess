@@ -1,3 +1,24 @@
+## [1.0.30](https://github.com/big-unibo/assess/compare/1.0.29...1.0.30) (2022-12-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.14.1 ([eced891](https://github.com/big-unibo/assess/commit/eced891ef1afb9f53f7e67c6899366df41494f18))
+
+
+### Dependency updates
+
+* **deps:** update dependency numpy to v1.23.5 ([d51a264](https://github.com/big-unibo/assess/commit/d51a264ccb1b6412f2d9fd5dd8c6e7f1c27460bc))
+* **deps:** update dependency pandas to v1.5.2 ([d751e2e](https://github.com/big-unibo/assess/commit/d751e2e1e36b7c5dc7bde9ab3a8ad455d3c45faa))
+* **deps:** update dependency requests to v2.28.1 ([3aa5748](https://github.com/big-unibo/assess/commit/3aa57484a28ccf1cc8b6c1223c92b6acdae7e785))
+* **deps:** update dependency scipy to v1.9.3 ([abff3c2](https://github.com/big-unibo/assess/commit/abff3c22a4e93b6387dc9388bc352e91548199f4))
+* **deps:** update plugin org.gretty to v3.1.0 ([1dd2e49](https://github.com/big-unibo/assess/commit/1dd2e4940af012f28c54f1a3f4c194d70fbdc9eb))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.7.0 ([31301de](https://github.com/big-unibo/assess/commit/31301de40599d7ad9036fe7753a9e1ccb101dbff))
+
 ## [1.0.29](https://github.com/big-unibo/assess/compare/1.0.28...1.0.29) (2022-12-03)
 
 
