@@ -1,3 +1,10 @@
+## [1.0.32](https://github.com/big-unibo/assess/compare/1.0.31...1.0.32) (2022-12-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.cdimascio:dotenv-kotlin to v6.4.0 ([8c2dd3c](https://github.com/big-unibo/assess/commit/8c2dd3c801e8e7e4d0d6f865cf4634b0a755bd35))
+
 ## [1.0.31](https://github.com/big-unibo/assess/compare/1.0.30...1.0.31) (2022-12-04)
 
 
