@@ -1,3 +1,21 @@
+## [1.0.33](https://github.com/big-unibo/assess/compare/1.0.32...1.0.33) (2022-12-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.7.0 ([9055582](https://github.com/big-unibo/assess/commit/905558275913a33c314d19342270bdccd454a3fd))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6 ([088f0ab](https://github.com/big-unibo/assess/commit/088f0ab88e119ea0b8139d4c355bc87b348e0e40))
+* **deps:** update node.js to v18 ([dba1df6](https://github.com/big-unibo/assess/commit/dba1df677bfc09b725c750a8624780712b8de886))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.8.0 ([36787b8](https://github.com/big-unibo/assess/commit/36787b8e644d1edcc610fcbe469e572a04b511c2))
+
 ## [1.0.32](https://github.com/big-unibo/assess/compare/1.0.31...1.0.32) (2022-12-04)
 
 
