@@ -1,3 +1,24 @@
+## [1.0.36](https://github.com/big-unibo/assess/compare/1.0.35...1.0.36) (2022-12-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.6 ([f6f57ea](https://github.com/big-unibo/assess/commit/f6f57ea9aea76e99e69b20c9ce5903969c1576de))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.19.0 ([abe045c](https://github.com/big-unibo/assess/commit/abe045cde0569c074ea752f185627bf0c7fe9006))
+* **deps:** update dependency ipykernel to v6.19.2 ([2d54af2](https://github.com/big-unibo/assess/commit/2d54af242bfd2a66fa11a3fada0f2523174eae6c))
+* **deps:** update dependency scikit-learn to v1.2.0 ([0087b29](https://github.com/big-unibo/assess/commit/0087b295931712eec7a04bd10314e0444b1c4ddf))
+* **deps:** update dependency sqlalchemy to v1.4.45 ([fb3b209](https://github.com/big-unibo/assess/commit/fb3b209925ca66045da0091a5d42de087f613921))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.2.0 ([5ade7b9](https://github.com/big-unibo/assess/commit/5ade7b99d29dfb07644969a6822d3331c0ec57fe))
+* **deps:** update actions/setup-java action to v3.9.0 ([94e835c](https://github.com/big-unibo/assess/commit/94e835c7fbba9adb7d551ff1e1aa1b59457fb04a))
+
 ## [1.0.35](https://github.com/big-unibo/assess/compare/1.0.34...1.0.35) (2022-12-08)
 
 
