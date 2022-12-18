@@ -1,6 +1,6 @@
 ipykernel==6.19.2
 matplotlib
-numpy==1.23.5
+numpy==1.24.0
 pandas==1.5.2
 scikit-learn-extra==0.2.0
 scikit-learn==1.2.0
