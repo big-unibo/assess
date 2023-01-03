@@ -1,3 +1,21 @@
+## [1.0.38](https://github.com/big-unibo/assess/compare/1.0.37...1.0.38) (2023-01-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.2.2 ([a3e5452](https://github.com/big-unibo/assess/commit/a3e5452df7e0789c9b04df927beee8ec76e6c9e8))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.19.3 ([8d6a646](https://github.com/big-unibo/assess/commit/8d6a64648c6161102c993670152e1af582f50a94))
+* **deps:** update dependency ipykernel to v6.19.4 ([8a6c0ea](https://github.com/big-unibo/assess/commit/8a6c0ea6df9252b980dbc70071aa1e67aad6d8a4))
+* **deps:** update dependency ipykernel to v6.20.0 ([e57abf8](https://github.com/big-unibo/assess/commit/e57abf89a7a70af91fd161543c1d4c141d144713))
+* **deps:** update dependency numpy to v1.24.0 ([e7cfa22](https://github.com/big-unibo/assess/commit/e7cfa223360d6b59623784ae0682af0952a52d0a))
+* **deps:** update dependency numpy to v1.24.1 ([8b4ec84](https://github.com/big-unibo/assess/commit/8b4ec845bb7593698a744b5fc7da6b6acc315101))
+* **deps:** update plugin org.gretty to v3.1.1 ([76288ea](https://github.com/big-unibo/assess/commit/76288ea4f589bafaad135c3c4ee83a128b1b81b6))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.0 ([a742385](https://github.com/big-unibo/assess/commit/a7423850570b553c6d5ccdce8677d54bbb8451de))
+
 ## [1.0.37](https://github.com/big-unibo/assess/compare/1.0.36...1.0.37) (2022-12-15)
 
 
