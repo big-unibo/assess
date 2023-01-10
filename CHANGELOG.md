@@ -1,3 +1,24 @@
+## [1.0.39](https://github.com/big-unibo/assess/compare/1.0.38...1.0.39) (2023-01-10)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.9.2 ([fc50348](https://github.com/big-unibo/assess/commit/fc50348ba84865eaa807e5539dc59839e90e4c58))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.3.0 ([8059994](https://github.com/big-unibo/assess/commit/8059994c3f66926c6be2a65e42d57fd2173ba2cb))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.20.1 ([a2be733](https://github.com/big-unibo/assess/commit/a2be7330b4710939e8767653f065d09c3e056381))
+* **deps:** update dependency scipy to v1.10.0 ([6093652](https://github.com/big-unibo/assess/commit/6093652350295fd3d9fc3aed6ee4bf22a0ea30cd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.16 ([9610c1b](https://github.com/big-unibo/assess/commit/9610c1ba5cf3986768d6c49483a9435d350bfaf6))
+* **deps:** update dependency sqlalchemy to v1.4.46 ([92a17ac](https://github.com/big-unibo/assess/commit/92a17ac1a3c6ecb462de016ee790415b3a231856))
+* **deps:** update node.js to 18.13 ([868690f](https://github.com/big-unibo/assess/commit/868690f79b6c5b026b4e7a7f52c5267b386a67ee))
+
 ## [1.0.38](https://github.com/big-unibo/assess/compare/1.0.37...1.0.38) (2023-01-03)
 
 
