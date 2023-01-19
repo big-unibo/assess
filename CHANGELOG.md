@@ -1,3 +1,16 @@
+## [1.0.41](https://github.com/big-unibo/assess/compare/1.0.40...1.0.41) (2023-01-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mysql:mysql-connector-java to v8.0.32 ([f8793a6](https://github.com/big-unibo/assess/commit/f8793a68441b303063e53d5b546b9c57db348907))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.20.2 ([0aa17e4](https://github.com/big-unibo/assess/commit/0aa17e4be49b52a472975b286561a79e55e76dd8))
+* **deps:** update dependency pandas to v1.5.3 ([0f06884](https://github.com/big-unibo/assess/commit/0f068842f31aa4a958805eb905c5537f6d20cc73))
+
 ## [1.0.40](https://github.com/big-unibo/assess/compare/1.0.39...1.0.40) (2023-01-16)
 
 
