@@ -1,3 +1,17 @@
+## [1.0.47](https://github.com/big-unibo/assess/compare/1.0.46...1.0.47) (2023-02-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.8.0 ([cff159e](https://github.com/big-unibo/assess/commit/cff159e7fd2af0719dc6c12a5907a860dfad9852))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.21.1 ([cc2d0fb](https://github.com/big-unibo/assess/commit/cc2d0fba029d546d5b1c3f33eeef5d1eb10484ab))
+* **deps:** update node.js to 18.14 ([e93e87e](https://github.com/big-unibo/assess/commit/e93e87e37391eadc78c6ffa16213d8d126129359))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v1.8.10 ([a986f36](https://github.com/big-unibo/assess/commit/a986f366c2736bad05fc9c7937addc3369ba5ea1))
+
 ## [1.0.46](https://github.com/big-unibo/assess/compare/1.0.45...1.0.46) (2023-02-02)
 
 
