@@ -1,3 +1,17 @@
+## [1.0.51](https://github.com/big-unibo/assess/compare/1.0.50...1.0.51) (2023-03-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.jooq:jool to v0.9.15 ([9d38007](https://github.com/big-unibo/assess/commit/9d3800781c90406418da0c93864c146ede006a2b))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.21.3 ([cd6d64b](https://github.com/big-unibo/assess/commit/cd6d64b731321bbebe582de52da25a7125d551ff))
+* **deps:** update dependency sqlalchemy to v2.0.5.post1 ([1dfd889](https://github.com/big-unibo/assess/commit/1dfd889217cae08e4fd0da8cbf5b21f5690a1199))
+* **deps:** update node.js to 18.15 ([95f31a2](https://github.com/big-unibo/assess/commit/95f31a2e67f057fee8f112b2917b86936b94473e))
+
 ## [1.0.50](https://github.com/big-unibo/assess/compare/1.0.49...1.0.50) (2023-02-28)
 
 
