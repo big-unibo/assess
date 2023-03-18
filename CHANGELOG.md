@@ -1,3 +1,22 @@
+## [1.0.52](https://github.com/big-unibo/assess/compare/1.0.51...1.0.52) (2023-03-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.7 ([caf7d6f](https://github.com/big-unibo/assess/commit/caf7d6f8cb29d2db75639d1fd4d1067268808087))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.4.0 ([267b92e](https://github.com/big-unibo/assess/commit/267b92e052890f5db6e00f6d64f7142185d55f83))
+
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn to v1.2.2 ([b9bf216](https://github.com/big-unibo/assess/commit/b9bf216dec0e8a59c016792cf547e8ec2939a315))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.17 ([84b636c](https://github.com/big-unibo/assess/commit/84b636c9a4579cbac1d2ea6f8ca844df8a81fdd1))
+* **deps:** update dependency sqlalchemy to v2.0.6 ([20da69a](https://github.com/big-unibo/assess/commit/20da69a49bc05b1893c6ac963fb915d3aa613a96))
+
 ## [1.0.51](https://github.com/big-unibo/assess/compare/1.0.50...1.0.51) (2023-03-08)
 
 
