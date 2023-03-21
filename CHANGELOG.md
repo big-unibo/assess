@@ -1,3 +1,17 @@
+## [1.0.54](https://github.com/big-unibo/assess/compare/1.0.53...1.0.54) (2023-03-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.3 ([f2d0448](https://github.com/big-unibo/assess/commit/f2d044804cbace77da01d894049b4ce4278c2b1e))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.22.0 ([5dce19e](https://github.com/big-unibo/assess/commit/5dce19e0b74ce63973dd4cec169c3d844a61ca1c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.19 ([15913d7](https://github.com/big-unibo/assess/commit/15913d762c2b8570f003791bd39fe5c699c05912))
+* **deps:** update dependency sqlalchemy to v2.0.7 ([00c0e21](https://github.com/big-unibo/assess/commit/00c0e21ab7810a7bbca397b51a9e7ff0d7009619))
+
 ## [1.0.53](https://github.com/big-unibo/assess/compare/1.0.52...1.0.53) (2023-03-18)
 
 
