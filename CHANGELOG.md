@@ -1,3 +1,25 @@
+## [1.0.55](https://github.com/big-unibo/assess/compare/1.0.54...1.0.55) (2023-04-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.9.0 ([b1dd914](https://github.com/big-unibo/assess/commit/b1dd914ec87c55b180756238b76602c8828f80da))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.0 ([20ee2f4](https://github.com/big-unibo/assess/commit/20ee2f4818f0136ba26f1f34a2aa0bc1afd4c9d8))
+* **deps:** update actions/setup-java action to v3.11.0 ([a86f354](https://github.com/big-unibo/assess/commit/a86f354cb1bb0fd9335b717ebbad301d98ce411d))
+
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn-extra to v0.3.0 ([21373e3](https://github.com/big-unibo/assess/commit/21373e38e3df2fa57b113fc1c0c9a3ba6e976436))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.20 ([3cd0c43](https://github.com/big-unibo/assess/commit/3cd0c4311f037c21e0b77fda37949429d144ccda))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.21 ([a82c725](https://github.com/big-unibo/assess/commit/a82c7254dbe12db66d459b9515c903a06be1c206))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.22 ([c82ef83](https://github.com/big-unibo/assess/commit/c82ef8314e6a54f23224b9d3d8b15d58f37742b4))
+* **deps:** update dependency sqlalchemy to v2.0.8 ([899e4a5](https://github.com/big-unibo/assess/commit/899e4a5ce3f08907029d67567d2024aed68d8836))
+
 ## [1.0.54](https://github.com/big-unibo/assess/compare/1.0.53...1.0.54) (2023-03-21)
 
 
