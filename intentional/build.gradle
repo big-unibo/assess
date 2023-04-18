@@ -42,7 +42,7 @@ dependencies {
     implementation 'io.github.cdimascio:dotenv-kotlin:6.4.1'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     // java
-    implementation 'mysql:mysql-connector-java:8.0.32'
+    implementation 'mysql:mysql-connector-java:8.0.33'
     implementation 'com.github.doyaaaaaken:kotlin-csv-jvm:1.9.0'
     implementation 'org.apache.commons:commons-csv:1.10.0'
     // implementation 'net.sf.extjwnl:extjwnl:2.0.2' // wordnet
