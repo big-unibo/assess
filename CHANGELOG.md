@@ -1,3 +1,26 @@
+## [1.0.56](https://github.com/big-unibo/assess/compare/1.0.55...1.0.56) (2023-04-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency mysql:mysql-connector-java to v8.0.33 ([bbe1dc6](https://github.com/big-unibo/assess/commit/bbe1dc63252137ff0ab840520f773623652978b7))
+
+
+### Dependency updates
+
+* **deps:** update dependency pandas to v2 ([0dc04bc](https://github.com/big-unibo/assess/commit/0dc04bc6481fad99b040bc2059cabc15ad61030f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.23 ([d89cb92](https://github.com/big-unibo/assess/commit/d89cb923b4a94242f5a2c46fd6664e6734120309))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.24 ([f54dc76](https://github.com/big-unibo/assess/commit/f54dc763d1dd30191868b2185c11c8a1d80574a6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.25 ([fde5a57](https://github.com/big-unibo/assess/commit/fde5a576d4529e0f4c63f9515c3f4b01f8a463a6))
+* **deps:** update dependency sqlalchemy to v2.0.9 ([5837c38](https://github.com/big-unibo/assess/commit/5837c386fa5ec82e33304693889b40748b3c3ff2))
+* **deps:** update node.js to 18.16 ([1f02b8b](https://github.com/big-unibo/assess/commit/1f02b8b2a8fad83e13d11764ab6f64fa4e66bfeb))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.5.1 ([69454fb](https://github.com/big-unibo/assess/commit/69454fb3a370ae501d2b574c9352a1b2df369ad3))
+* **deps:** update actions/checkout action to v3.5.2 ([148ed38](https://github.com/big-unibo/assess/commit/148ed380c989f70d2a23c4d4c43864f316642a25))
+
 ## [1.0.55](https://github.com/big-unibo/assess/compare/1.0.54...1.0.55) (2023-04-01)
 
 
