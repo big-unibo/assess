@@ -1,3 +1,15 @@
+## [1.0.60](https://github.com/big-unibo/assess/compare/1.0.59...1.0.60) (2023-04-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.4 ([fa1f788](https://github.com/big-unibo/assess/commit/fa1f7888d3421f864ae5e18da0ca6a7d14846ddc))
+
+
+### Dependency updates
+
+* **deps:** update dependency pandas to v2.0.1 ([72bdcd3](https://github.com/big-unibo/assess/commit/72bdcd3a63af1455a89d3685cae34adbacc48ca7))
+
 ## [1.0.59](https://github.com/big-unibo/assess/compare/1.0.58...1.0.59) (2023-04-24)
 
 
