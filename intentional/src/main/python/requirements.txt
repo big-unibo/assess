@@ -6,6 +6,6 @@ scikit-learn-extra==0.3.0
 scikit-learn==1.2.2
 scipy==1.10.1
 yellowbrick==1.5
-requests==2.29.0
+requests==2.30.0
 cx-Oracle==8.3.0
 SQLAlchemy==2.0.12
