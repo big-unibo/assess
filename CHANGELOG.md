@@ -1,3 +1,15 @@
+## [1.0.66](https://github.com/big-unibo/assess/compare/1.0.65...1.0.66) (2023-05-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.13.0 ([afb428e](https://github.com/big-unibo/assess/commit/afb428e326c528cfc64f5c1c5fd2a1dec4bbf21b))
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.15 ([89918ee](https://github.com/big-unibo/assess/commit/89918eec78a863ac5bea28491a3237db41c57224))
+
 ## [1.0.65](https://github.com/big-unibo/assess/compare/1.0.64...1.0.65) (2023-05-19)
 
 
