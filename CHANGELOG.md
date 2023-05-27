@@ -1,3 +1,10 @@
+## [1.0.68](https://github.com/big-unibo/assess/compare/1.0.67...1.0.68) (2023-05-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v32 ([649114e](https://github.com/big-unibo/assess/commit/649114e810585edd152d8d445d3e531c4e8aaf0d))
+
 ## [1.0.67](https://github.com/big-unibo/assess/compare/1.0.66...1.0.67) (2023-05-26)
 
 
