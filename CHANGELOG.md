@@ -1,3 +1,16 @@
+## [1.0.69](https://github.com/big-unibo/assess/compare/1.0.68...1.0.69) (2023-05-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.15.2 ([1c2c0d3](https://github.com/big-unibo/assess/commit/1c2c0d3a0060b0ba72dd6b93b7a31a688a082766))
+
+
+### Dependency updates
+
+* **deps:** update dependency pandas to v2.0.2 ([a56063d](https://github.com/big-unibo/assess/commit/a56063d7b47da0c6d09c0b5e1e9a22ead64d59fc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.27 ([8026fee](https://github.com/big-unibo/assess/commit/8026fee37a432a0e8446d051a5541c6ec209f960))
+
 ## [1.0.68](https://github.com/big-unibo/assess/compare/1.0.67...1.0.68) (2023-05-27)
 
 
