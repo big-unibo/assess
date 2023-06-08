@@ -1,3 +1,16 @@
+## [1.0.72](https://github.com/big-unibo/assess/compare/1.0.71...1.0.72) (2023-06-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.13.0 ([cc0b114](https://github.com/big-unibo/assess/commit/cc0b114245911b6a31e75c8a54be12bac4365293))
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.30 ([9c07aae](https://github.com/big-unibo/assess/commit/9c07aae0c526070572bb198b8aa740162431aa7f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.32 ([772d7e3](https://github.com/big-unibo/assess/commit/772d7e3d2aee6b8724e4ac5c17242cb18c77baab))
+
 ## [1.0.71](https://github.com/big-unibo/assess/compare/1.0.70...1.0.71) (2023-05-31)
 
 
