@@ -1,3 +1,25 @@
+## [1.0.76](https://github.com/big-unibo/assess/compare/1.0.75...1.0.76) (2023-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.0 ([184f9fd](https://github.com/big-unibo/assess/commit/184f9fd1deabb32f501e4f45ec7647e8f882a8e0))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.24.0 ([6e29ca6](https://github.com/big-unibo/assess/commit/6e29ca6b5414a905d5373075411e18f034f14559))
+* **deps:** update dependency pandas to v2.0.3 ([182b3f7](https://github.com/big-unibo/assess/commit/182b3f77a463a687ea0779c1b8b645a3ae1459a1))
+* **deps:** update dependency scikit-learn to v1.3.0 ([421bdb6](https://github.com/big-unibo/assess/commit/421bdb65633b4ae46e9b62379f60689699025a62))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.39 ([2c83369](https://github.com/big-unibo/assess/commit/2c83369a536adc6b2942b2d016d1c7a0451fc3d4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.40 ([3b8b035](https://github.com/big-unibo/assess/commit/3b8b03564816775da1c9724674d7192e9d170e84))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.41 ([7e91218](https://github.com/big-unibo/assess/commit/7e9121803e97e9a653109a5cb5823393ddb9e093))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.42 ([faee3c4](https://github.com/big-unibo/assess/commit/faee3c49c08a04c30f374f2226c2dad3b262c109))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.43 ([e35fb0b](https://github.com/big-unibo/assess/commit/e35fb0b851dd56f6329bf590e810d853f82cb517))
+* **deps:** update dependency sqlalchemy to v2.0.18 ([11e726b](https://github.com/big-unibo/assess/commit/11e726bbf91d077c71207a333c2eeb011423335d))
+* **deps:** update dependency sqlalchemy to v2.0.19 ([0204fb0](https://github.com/big-unibo/assess/commit/0204fb00f2bf6d795a45fbf8b324ec38e07fa057))
+* **deps:** update node.js to 18.17 ([fec92d1](https://github.com/big-unibo/assess/commit/fec92d1b5ac57c1298f4dd1d24533ad6b7bd8e93))
+
 ## [1.0.75](https://github.com/big-unibo/assess/compare/1.0.74...1.0.75) (2023-06-28)
 
 
