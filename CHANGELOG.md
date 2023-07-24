@@ -1,3 +1,10 @@
+## [1.0.77](https://github.com/big-unibo/assess/compare/1.0.76...1.0.77) (2023-07-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.8 ([ff39eb4](https://github.com/big-unibo/assess/commit/ff39eb414f9d6d80965e23aabb1068b4659b6c36))
+
 ## [1.0.76](https://github.com/big-unibo/assess/compare/1.0.75...1.0.76) (2023-07-23)
 
 
