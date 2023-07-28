@@ -1,3 +1,20 @@
+## [1.0.78](https://github.com/big-unibo/assess/compare/1.0.77...1.0.78) (2023-07-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.13.0 ([d679914](https://github.com/big-unibo/assess/commit/d6799144dd0fd5404aed3a37122d65ac14aae716))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v3.12.0 ([9e6f04c](https://github.com/big-unibo/assess/commit/9e6f04c8d47d4108b558799e11724a187493bfec))
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.0 ([d01938f](https://github.com/big-unibo/assess/commit/d01938ffd6304bdec2bdd7a0da834ac250d63d7e))
+
 ## [1.0.77](https://github.com/big-unibo/assess/compare/1.0.76...1.0.77) (2023-07-24)
 
 
