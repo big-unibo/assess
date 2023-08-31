@@ -36,7 +36,7 @@ dependencies {
     implementation 'org.antlr:antlr4:4.13.0'
     // servlet
     implementation 'javax:javaee-api:8.0.1'
-    implementation 'io.ktor:ktor-server-servlet:2.3.3'
+    implementation 'io.ktor:ktor-server-servlet:2.3.4'
     // kotlin
     implementation 'de.mpicbg.scicomp:krangl:0.15.3'
     implementation 'io.github.cdimascio:dotenv-kotlin:6.4.1'
