@@ -1,3 +1,29 @@
+## [1.0.81](https://github.com/big-unibo/assess/compare/1.0.80...1.0.81) (2023-08-31)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.1 ([7dd7f04](https://github.com/big-unibo/assess/commit/7dd7f04bf9c97fa2ed2cf7a684cdd13348b3176e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.44 ([11e0d21](https://github.com/big-unibo/assess/commit/11e0d21bb12bc669d2c26b66f8f5d8ff03b3c6a9))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.46 ([daffa62](https://github.com/big-unibo/assess/commit/daffa62829a6c8444637cda56737031f8240e994))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.47 ([b525a99](https://github.com/big-unibo/assess/commit/b525a996050c72083690fb8ff3df4eb7fab0a422))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.48 ([8974ace](https://github.com/big-unibo/assess/commit/8974ace87376dd05ff995f5ab7b783debf7335a3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.50 ([2582317](https://github.com/big-unibo/assess/commit/25823171d383f71242a827d526ba4b8cc9dec04b))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.51 ([f9a04f4](https://github.com/big-unibo/assess/commit/f9a04f49f1c69c09095348f2063d9eb1a30b8c81))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.52 ([33d0efa](https://github.com/big-unibo/assess/commit/33d0efa0909b27e8e223cbc892b9dccd77893977))
+* **deps:** update dependency sqlalchemy to v2.0.20 ([46dcf51](https://github.com/big-unibo/assess/commit/46dcf511f136bdc20e00ba0071364068f1f9769b))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.4 ([17138c6](https://github.com/big-unibo/assess/commit/17138c66cad8709ad02237f240f6e795b5236754))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v3.6.0 ([80d2da7](https://github.com/big-unibo/assess/commit/80d2da7fb6be12140abe66e93193a61a49895a1d))
+* **deps:** update dependency ubuntu to v22 ([763a30f](https://github.com/big-unibo/assess/commit/763a30f893ae57c1bda74e5f250723642f9b9596))
+
 ## [1.0.80](https://github.com/big-unibo/assess/compare/1.0.79...1.0.80) (2023-08-01)
 
 
