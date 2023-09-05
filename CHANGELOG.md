@@ -1,3 +1,20 @@
+## [1.0.84](https://github.com/big-unibo/assess/compare/1.0.83...1.0.84) (2023-09-05)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.25.2 ([47d873c](https://github.com/big-unibo/assess/commit/47d873c75fde2f5dd4af93d2aca738deea4631c0))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.13.1 ([0f6774c](https://github.com/big-unibo/assess/commit/0f6774c91bf60cc7ea241484f12d664b048e6c3d))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4 ([1a4387b](https://github.com/big-unibo/assess/commit/1a4387bc04a6844b9c33c4e0b34560279ff32ef7))
+
 ## [1.0.83](https://github.com/big-unibo/assess/compare/1.0.82...1.0.83) (2023-09-04)
 
 
