@@ -1,3 +1,32 @@
+## [1.0.85](https://github.com/big-unibo/assess/compare/1.0.84...1.0.85) (2023-09-26)
+
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn to v1.3.1 ([842438c](https://github.com/big-unibo/assess/commit/842438cbf6f59d09068e5cc92e5b0b96d380c4b1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.54 ([b8449bd](https://github.com/big-unibo/assess/commit/b8449bd1100c7c9c632aa188aa88b5375e8bba70))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.55 ([6d0c874](https://github.com/big-unibo/assess/commit/6d0c8746de1024ff7477e8747b4b2ca5c9a55da2))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.56 ([6b9c193](https://github.com/big-unibo/assess/commit/6b9c19346915ebf9aa243ccab700caa0c4d99459))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.58 ([b8ad571](https://github.com/big-unibo/assess/commit/b8ad5715fc0b55750910d57ff23d27b473e0c7eb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.59 ([3c747bb](https://github.com/big-unibo/assess/commit/3c747bbc1383c90ae09fea73b04287e654718cbd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.60 ([4ce4351](https://github.com/big-unibo/assess/commit/4ce435136d5968f6a6bf32c4b28bf3e4e3c66fe8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.61 ([b84cd22](https://github.com/big-unibo/assess/commit/b84cd228a989a168eba32a21792679a5770db636))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.62 ([5b3c8fa](https://github.com/big-unibo/assess/commit/5b3c8fa06296f8ddff896ce4996b565cc1b81884))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.63 ([aa76653](https://github.com/big-unibo/assess/commit/aa7665360e41199476225f49c453fac3b688d848))
+* **deps:** update dependency sqlalchemy to v2.0.21 ([cc6a5b5](https://github.com/big-unibo/assess/commit/cc6a5b5c507e2431050abd282fb1603a37407754))
+* **deps:** update node.js to 18.18 ([d87024e](https://github.com/big-unibo/assess/commit/d87024e86b09976b3359f50d6a33680c1e87c929))
+
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.5 ([e7f2f5d](https://github.com/big-unibo/assess/commit/e7f2f5db669be6709972190e185f68c7ab339225))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.0 ([8d26565](https://github.com/big-unibo/assess/commit/8d26565612159cbe12f7b8d142dec65cebcd986f))
+* **deps:** update actions/setup-java action to v3.13.0 ([1cebc71](https://github.com/big-unibo/assess/commit/1cebc717c77e6dd67ba9f0f1a419fcdf8cbe7ac2))
+
 ## [1.0.84](https://github.com/big-unibo/assess/compare/1.0.83...1.0.84) (2023-09-05)
 
 
