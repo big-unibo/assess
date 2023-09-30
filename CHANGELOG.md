@@ -1,3 +1,18 @@
+## [1.0.86](https://github.com/big-unibo/assess/compare/1.0.85...1.0.86) (2023-09-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.64 ([401812a](https://github.com/big-unibo/assess/commit/401812adc1dc47979cd185728ecea01002f00fa7))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.65 ([a2797d3](https://github.com/big-unibo/assess/commit/a2797d3a8549d06f85b2d5a55a764478e564e310))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.66 ([6a7cc5a](https://github.com/big-unibo/assess/commit/6a7cc5a324ed16d48ff5364a400457ed0dc43435))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.67 ([ad34525](https://github.com/big-unibo/assess/commit/ad3452529c1235c03019649db48a0febd91e4f45))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.14.0 ([60be22f](https://github.com/big-unibo/assess/commit/60be22f0a30ddea3b99d93160c2d1c96bddc5f46))
+
 ## [1.0.85](https://github.com/big-unibo/assess/compare/1.0.84...1.0.85) (2023-09-26)
 
 
