@@ -1,3 +1,10 @@
+## [1.0.89](https://github.com/big-unibo/assess/compare/1.0.88...1.0.89) (2023-10-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20231013 ([da7cb43](https://github.com/big-unibo/assess/commit/da7cb43dbaa40526464ea28f57a029e73d4524c0))
+
 ## [1.0.88](https://github.com/big-unibo/assess/compare/1.0.87...1.0.88) (2023-10-13)
 
 
