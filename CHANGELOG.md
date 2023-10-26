@@ -1,3 +1,25 @@
+## [1.0.91](https://github.com/big-unibo/assess/compare/1.0.90...1.0.91) (2023-10-26)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.26.0 ([f1b79b2](https://github.com/big-unibo/assess/commit/f1b79b2acf31baabbe9ce12cad0c7a111383aa8c))
+* **deps:** update dependency scikit-learn to v1.3.2 ([323feb0](https://github.com/big-unibo/assess/commit/323feb067674573ef100b779f8dc5d83b688bf70))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.69 ([bfa7424](https://github.com/big-unibo/assess/commit/bfa7424ae8043875eb5c259d786be87ffa324ab6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.70 ([e34c4cc](https://github.com/big-unibo/assess/commit/e34c4cc26e56dc1dd1339b37675dd494f14ff5ed))
+* **deps:** update node.js to 20.9 ([2f360ae](https://github.com/big-unibo/assess/commit/2f360aefaac0fa608489ded9d47fdb56ee5ac5e5))
+* **deps:** update node.js to v20 ([f4fd398](https://github.com/big-unibo/assess/commit/f4fd3981298d2cc39581e55d836314bee602014d))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.15.0 ([ae1706a](https://github.com/big-unibo/assess/commit/ae1706a165b0f270105e439b82f0c25ef2d59e0a))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.1 ([02f4eb1](https://github.com/big-unibo/assess/commit/02f4eb16e1fd3c24f88ac2159423d7b71555fcc5))
+
 ## [1.0.90](https://github.com/big-unibo/assess/compare/1.0.89...1.0.90) (2023-10-14)
 
 
