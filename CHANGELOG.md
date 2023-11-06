@@ -1,3 +1,16 @@
+## [1.0.92](https://github.com/big-unibo/assess/compare/1.0.91...1.0.92) (2023-11-06)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.71 ([126ea72](https://github.com/big-unibo/assess/commit/126ea72315357743644d5c23b1a37e2a60504c5f))
+* **deps:** update dependency sqlalchemy to v2.0.23 ([8d9c2ab](https://github.com/big-unibo/assess/commit/8d9c2aba1595f02a7fbc60ab6853ff4fb7fe21ab))
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.1 ([aee294e](https://github.com/big-unibo/assess/commit/aee294e8ed9c75000d5c5e3f698e9772eda8f4c2))
+
 ## [1.0.91](https://github.com/big-unibo/assess/compare/1.0.90...1.0.91) (2023-10-26)
 
 
