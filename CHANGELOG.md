@@ -1,3 +1,18 @@
+## [1.0.93](https://github.com/big-unibo/assess/compare/1.0.92...1.0.93) (2023-11-07)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.72 ([e47ed4c](https://github.com/big-unibo/assess/commit/e47ed4cb235ed5384a3e1efd47b0dae3ca908676))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.73 ([17fef05](https://github.com/big-unibo/assess/commit/17fef05443c10b9eb9678b9c5ed9a0722c033a08))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.74 ([b42dfb8](https://github.com/big-unibo/assess/commit/b42dfb8688348c125605864ab3518fb2f0913c10))
+* **deps:** update plugin org.gretty to v3.1.2 ([f9116c9](https://github.com/big-unibo/assess/commit/f9116c9d7de938630b5d790be2b888e7e3b3d92c))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.6 ([833233b](https://github.com/big-unibo/assess/commit/833233b7afdd158a4afa9bec3eec409c5eb78e33))
+
 ## [1.0.92](https://github.com/big-unibo/assess/compare/1.0.91...1.0.92) (2023-11-06)
 
 
