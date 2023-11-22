@@ -1,3 +1,16 @@
+## [1.0.96](https://github.com/big-unibo/assess/compare/1.0.95...1.0.96) (2023-11-22)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.27.0 ([a68a90c](https://github.com/big-unibo/assess/commit/a68a90cdb9bdddb84c0b0f4a928f0c657fc03320))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.77 ([c17f818](https://github.com/big-unibo/assess/commit/c17f8181cb1597892fb3ef646785cbf677ab5356))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.9 ([9dab89f](https://github.com/big-unibo/assess/commit/9dab89f37a010e2962c5e9b24e9a55601b096c3a))
+
 ## [1.0.95](https://github.com/big-unibo/assess/compare/1.0.94...1.0.95) (2023-11-16)
 
 
