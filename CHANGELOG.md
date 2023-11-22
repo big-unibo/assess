@@ -1,3 +1,10 @@
+## [1.0.97](https://github.com/big-unibo/assess/compare/1.0.96...1.0.97) (2023-11-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.14.0 ([9ce3443](https://github.com/big-unibo/assess/commit/9ce34432e346795e0173c069f661f993a805f744))
+
 ## [1.0.96](https://github.com/big-unibo/assess/compare/1.0.95...1.0.96) (2023-11-22)
 
 
