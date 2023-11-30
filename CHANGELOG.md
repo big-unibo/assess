@@ -1,3 +1,22 @@
+## [1.0.98](https://github.com/big-unibo/assess/compare/1.0.97...1.0.98) (2023-11-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.27.1 ([940863a](https://github.com/big-unibo/assess/commit/940863ae7dad3af64c3f9ac11166850f5b8720c6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.78 ([308a752](https://github.com/big-unibo/assess/commit/308a7528dda3fb256de06306eb893b54a0d48cd3))
+* **deps:** update node.js to 20.10 ([4289ab1](https://github.com/big-unibo/assess/commit/4289ab165fac0cf863031bcea53488a3f6e95c14))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.15.1 ([21a5d67](https://github.com/big-unibo/assess/commit/21a5d67427e57ee692c607d8b86ddf764a72f976))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4 ([5f04086](https://github.com/big-unibo/assess/commit/5f0408661c80c12b9366d240bdd640dbd3916245))
+
 ## [1.0.97](https://github.com/big-unibo/assess/compare/1.0.96...1.0.97) (2023-11-22)
 
 
