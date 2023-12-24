@@ -1,3 +1,22 @@
+## [1.0.100](https://github.com/big-unibo/assess/compare/1.0.99...1.0.100) (2023-12-24)
+
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.82 ([6d2a6b9](https://github.com/big-unibo/assess/commit/6d2a6b9a025e6b369a176ad6ec79362cb7a3e25c))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.83 ([2009962](https://github.com/big-unibo/assess/commit/20099626db539cac2fb33368ce4da356df8ec20d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.84 ([041055b](https://github.com/big-unibo/assess/commit/041055ba75579020129148776b333961ec4f61fe))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.16.1 ([4e55835](https://github.com/big-unibo/assess/commit/4e55835fe8f43ba8ef21f5332e1b80c04856725f))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/upload-artifact action to v4 ([63fc616](https://github.com/big-unibo/assess/commit/63fc616a289294def397dc79d2a1e0a415789113))
+
 ## [1.0.99](https://github.com/big-unibo/assess/compare/1.0.98...1.0.99) (2023-12-10)
 
 
