@@ -1,3 +1,17 @@
+## [1.0.102](https://github.com/big-unibo/assess/compare/1.0.101...1.0.102) (2023-12-29)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.28.0 ([4c21d9c](https://github.com/big-unibo/assess/commit/4c21d9c7deba5a3061b6a8fb27058abd0eeec6da))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.85 ([3d84d12](https://github.com/big-unibo/assess/commit/3d84d124785e1fdfe3671de7a1b5f2f3cd378c92))
+* **deps:** update dependency sqlalchemy to v2.0.24 ([2a41700](https://github.com/big-unibo/assess/commit/2a41700b1970fb4561610469499fb7504ab3220b))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.10 ([f76a0a8](https://github.com/big-unibo/assess/commit/f76a0a85d3d5305de71bc6b110bb2fa8561e362d))
+
 ## [1.0.101](https://github.com/big-unibo/assess/compare/1.0.100...1.0.101) (2023-12-24)
 
 
