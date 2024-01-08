@@ -1,3 +1,15 @@
+## [1.0.104](https://github.com/big-unibo/assess/compare/1.0.103...1.0.104) (2024-01-08)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.25 ([1df7bc2](https://github.com/big-unibo/assess/commit/1df7bc213741fa4f27e13baf8408c12dc9df9cf2))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-api to v2.0.11 ([c1859a0](https://github.com/big-unibo/assess/commit/c1859a04dc699164ae42ffc6333cc4aafa7e699d))
+
 ## [1.0.103](https://github.com/big-unibo/assess/compare/1.0.102...1.0.103) (2023-12-29)
 
 
