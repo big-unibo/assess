@@ -1,3 +1,10 @@
+## [1.0.105](https://github.com/big-unibo/assess/compare/1.0.104...1.0.105) (2024-01-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-log4j12 to v2.0.11 ([994ddf0](https://github.com/big-unibo/assess/commit/994ddf0feca490f6d70413fb8882189f6966eae7))
+
 ## [1.0.104](https://github.com/big-unibo/assess/compare/1.0.103...1.0.104) (2024-01-08)
 
 
