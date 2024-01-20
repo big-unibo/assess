@@ -1,3 +1,16 @@
+## [1.0.106](https://github.com/big-unibo/assess/compare/1.0.105...1.0.106) (2024-01-20)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.0 ([636b5e7](https://github.com/big-unibo/assess/commit/636b5e7c39509708bdf01b7f32e4352f7ce8a0dd))
+* **deps:** update node.js to 20.11 ([31fde89](https://github.com/big-unibo/assess/commit/31fde894dce03bf40acc3402bbe7e0c912f0dc7f))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.9.3 ([b8f6927](https://github.com/big-unibo/assess/commit/b8f692772754e7c96620abd8d9ca457c2cfb107d))
+
 ## [1.0.105](https://github.com/big-unibo/assess/compare/1.0.104...1.0.105) (2024-01-09)
 
 
