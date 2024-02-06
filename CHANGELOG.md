@@ -1,3 +1,10 @@
+## [1.0.111](https://github.com/big-unibo/assess/compare/1.0.110...1.0.111) (2024-02-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20240205 ([8bad6dd](https://github.com/big-unibo/assess/commit/8bad6ddd4a7ccc1d4108098fa7b8a41566c055af))
+
 ## [1.0.110](https://github.com/big-unibo/assess/compare/1.0.109...1.0.110) (2024-02-06)
 
 
