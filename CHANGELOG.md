@@ -1,3 +1,15 @@
+## [1.0.110](https://github.com/big-unibo/assess/compare/1.0.109...1.0.110) (2024-02-06)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.1 ([eb2f9f1](https://github.com/big-unibo/assess/commit/eb2f9f1575b3574de99b623298d49d787dc91464))
+
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.12 ([ae7a15f](https://github.com/big-unibo/assess/commit/ae7a15fb974175bacd21fea173b6c8e3e20be405))
+
 ## [1.0.109](https://github.com/big-unibo/assess/compare/1.0.108...1.0.109) (2024-02-04)
 
 
