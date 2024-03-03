@@ -1,3 +1,23 @@
+## [1.0.112](https://github.com/big-unibo/assess/compare/1.0.111...1.0.112) (2024-03-03)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.2 ([81416d4](https://github.com/big-unibo/assess/commit/81416d48f31df9bd3490468a9c345181df57b8a6))
+* **deps:** update dependency ipykernel to v6.29.3 ([da0c597](https://github.com/big-unibo/assess/commit/da0c59705d7b81568d5b6c0c0a460ed5d7e725b9))
+* **deps:** update dependency sqlalchemy to v2.0.26 ([cef5dea](https://github.com/big-unibo/assess/commit/cef5deaec4cf6e7348bd7d69837639f4878035ef))
+* **deps:** update dependency sqlalchemy to v2.0.27 ([ec512f3](https://github.com/big-unibo/assess/commit/ec512f368e9108e13650d04aecd9bd824a667b67))
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20240303 ([231393b](https://github.com/big-unibo/assess/commit/231393bfbbe80944fec35dfe2d87c3654f33b781))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.1.0 ([c5fbd6c](https://github.com/big-unibo/assess/commit/c5fbd6c47522482fba4bb7fd8fe9525e138d10ff))
+
 ## [1.0.111](https://github.com/big-unibo/assess/compare/1.0.110...1.0.111) (2024-02-06)
 
 
