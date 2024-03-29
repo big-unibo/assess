@@ -1,3 +1,22 @@
+## [1.0.118](https://github.com/big-unibo/assess/compare/1.0.117...1.0.118) (2024-03-29)
+
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.29 ([94cb6b4](https://github.com/big-unibo/assess/commit/94cb6b4d730f636a2371c94732b1350f4873f4c2))
+* **deps:** update node.js to 20.12 ([83f4723](https://github.com/big-unibo/assess/commit/83f47232d97bf681a9ddae2c5ed084a702379733))
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.16.0 ([080d4a3](https://github.com/big-unibo/assess/commit/080d4a32625e792d5f6e4ce6c433af102a3a6ecd))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.2.0 ([76e1395](https://github.com/big-unibo/assess/commit/76e13954aea8806313f687abfe0977019c53f7c8))
+* **deps:** update actions/setup-java action to v4.2.1 ([97be35a](https://github.com/big-unibo/assess/commit/97be35ae82a330fca124b02215839d004b69d4a2))
+
 ## [1.0.117](https://github.com/big-unibo/assess/compare/1.0.116...1.0.117) (2024-03-13)
 
 
