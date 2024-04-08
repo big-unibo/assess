@@ -1,3 +1,15 @@
+## [1.0.119](https://github.com/big-unibo/assess/compare/1.0.118...1.0.119) (2024-04-08)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.4 ([cba8b53](https://github.com/big-unibo/assess/commit/cba8b533e279bbab91c75e0d7860e1b66b549098))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.10 ([fb81621](https://github.com/big-unibo/assess/commit/fb81621d5d1ba93e3ec0f5eb61020b408fe3aabe))
+
 ## [1.0.118](https://github.com/big-unibo/assess/compare/1.0.117...1.0.118) (2024-03-29)
 
 
