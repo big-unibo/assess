@@ -1,3 +1,10 @@
+## [1.0.120](https://github.com/big-unibo/assess/compare/1.0.119...1.0.120) (2024-04-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.16.1 ([6a4737c](https://github.com/big-unibo/assess/commit/6a4737ccd571a065c56287fffff0ba3c4d49681a))
+
 ## [1.0.119](https://github.com/big-unibo/assess/compare/1.0.118...1.0.119) (2024-04-08)
 
 
