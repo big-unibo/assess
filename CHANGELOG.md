@@ -1,3 +1,16 @@
+## [1.0.123](https://github.com/big-unibo/assess/compare/1.0.122...1.0.123) (2024-05-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.11.0 ([7a8c9b9](https://github.com/big-unibo/assess/commit/7a8c9b911c90bd0bbc3fd7d1fa66b800b475ed4d))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.3 ([0a90f36](https://github.com/big-unibo/assess/commit/0a90f364113387f49dd3e3ad975f2a6b779c1a72))
+* **deps:** update actions/checkout action to v4.1.4 ([63abaa3](https://github.com/big-unibo/assess/commit/63abaa398009e8303bd700b72a5377a2ba2040ee))
+
 ## [1.0.122](https://github.com/big-unibo/assess/compare/1.0.121...1.0.122) (2024-04-19)
 
 
