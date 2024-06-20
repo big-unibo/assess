@@ -1,3 +1,29 @@
+## [1.0.127](https://github.com/big-unibo/assess/compare/1.0.126...1.0.127) (2024-06-20)
+
+
+### Dependency updates
+
+* **deps:** update dependency requests to v2.32.1 ([d969d67](https://github.com/big-unibo/assess/commit/d969d67f5c5d263c13f20035c4239a16ec26e9e8))
+* **deps:** update dependency requests to v2.32.2 ([bbb227c](https://github.com/big-unibo/assess/commit/bbb227ca6819d4d829198fe6da3bcaef97cc73eb))
+* **deps:** update dependency requests to v2.32.3 ([fcdd990](https://github.com/big-unibo/assess/commit/fcdd99021a55ea4f02b35483aaec94461794de27))
+* **deps:** update dependency sqlalchemy to v2.0.31 ([77293a2](https://github.com/big-unibo/assess/commit/77293a2265fbafc5fc0191c392ae0e1608c3a5e6))
+* **deps:** update node.js to 20.14 ([0655352](https://github.com/big-unibo/assess/commit/0655352275707c3f2939af30f703db9a3e5a2f69))
+* **deps:** update plugin org.gretty to v3.1.3 ([9a1e17e](https://github.com/big-unibo/assess/commit/9a1e17ee2839e8fecada35b03a9b3ff9ef1fcd70))
+* **deps:** update plugin org.gretty to v3.1.4 ([dac4659](https://github.com/big-unibo/assess/commit/dac4659bff2e9592b7c2bcf49076435fad99353f))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v2 ([d6dddb4](https://github.com/big-unibo/assess/commit/d6dddb4c0e85a519c9964e7e0b96b804a9e591d1))
+
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.12 ([6f4fa4c](https://github.com/big-unibo/assess/commit/6f4fa4c04b0a3586cb8d5afd14a470ede54bb6fd))
+
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.1.5 ([be7c84a](https://github.com/big-unibo/assess/commit/be7c84a5fded74e465dbd91815e3e8962f8e943d))
+* **deps:** update actions/checkout action to v4.1.6 ([df6bcd6](https://github.com/big-unibo/assess/commit/df6bcd6a9a809e937782cdaabb9c420b9552af4c))
+* **deps:** update actions/checkout action to v4.1.7 ([ad95999](https://github.com/big-unibo/assess/commit/ad9599907ef2581e1a192210a1e030a902074564))
+
 ## [1.0.126](https://github.com/big-unibo/assess/compare/1.0.125...1.0.126) (2024-05-08)
 
 
