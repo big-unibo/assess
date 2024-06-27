@@ -1,3 +1,15 @@
+## [1.0.128](https://github.com/big-unibo/assess/compare/1.0.127...1.0.128) (2024-06-27)
+
+
+### Dependency updates
+
+* **deps:** update node.js to 20.15 ([bbc131a](https://github.com/big-unibo/assess/commit/bbc131af3fcb9d5577fa59a1df0a95374e41261c))
+
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.3 ([ddf3dfa](https://github.com/big-unibo/assess/commit/ddf3dfa218168e6a7121b132efbe8a75fbb63dd2))
+
 ## [1.0.127](https://github.com/big-unibo/assess/compare/1.0.126...1.0.127) (2024-06-20)
 
 
