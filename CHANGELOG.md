@@ -1,3 +1,20 @@
+## [1.0.129](https://github.com/big-unibo/assess/compare/1.0.128...1.0.129) (2024-07-30)
+
+
+### Dependency updates
+
+* **deps:** update dependency ipykernel to v6.29.5 ([56e2719](https://github.com/big-unibo/assess/commit/56e27190fd14141795772618f86333bb5b1480de))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.86 ([e396ceb](https://github.com/big-unibo/assess/commit/e396cebb99265693b8ca80f78347c8118a9376d1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.87 ([8dde583](https://github.com/big-unibo/assess/commit/8dde583b16c69817a11e55e78dda4c27f61a1d36))
+* **deps:** update node.js to 20.16 ([76105c6](https://github.com/big-unibo/assess/commit/76105c600a2747a5f651e4ae62db5e4d99bb9992))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.17.2 ([432c7a4](https://github.com/big-unibo/assess/commit/432c7a46c21ca5b9684bc6ef34d3d50f551010f7))
+* **deps:** update dependency com.fasterxml.jackson.datatype:jackson-datatype-jsr310 to v2.17.2 ([71379b7](https://github.com/big-unibo/assess/commit/71379b7e2cc04628eddea6e4dd91be820cbf8924))
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.15.0 ([5588ec1](https://github.com/big-unibo/assess/commit/5588ec1dca0c5e3cc5051bef9a557dc7473a474e))
+
 ## [1.0.128](https://github.com/big-unibo/assess/compare/1.0.127...1.0.128) (2024-06-27)
 
 
