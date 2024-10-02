@@ -6,8 +6,8 @@ if [ -f .env ]; then
   export $(cat .env | sed 's/#.*//g' | xargs)
 fi
 
-docker-compose down
-docker-compose up --build -d
+docker compose down
+docker compose up --build -d
 
 ./wait-for-it.sh ${ORACLE_IP}:${ORACLE_PORT} --strict --timeout=0 -- echo "ORACLE is up"
 
