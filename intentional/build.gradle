@@ -12,11 +12,6 @@ gretty {   // Add these lines
     servletContainer = 'jetty9'
 }
 
-compileJava {
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
-}
-
 repositories {
     jcenter()
     mavenCentral()
@@ -38,7 +33,8 @@ dependencies {
     implementation 'javax:javaee-api:8.0.1'
     implementation 'io.ktor:ktor-server-servlet:2.3.12'
     // kotlin
-    implementation 'de.mpicbg.scicomp:krangl:0.15.3'
+    //implementation 'de.mpicbg.scicomp:krangl:0.15.3'
+    implementation "com.github.holgerbrandl:krangl:0.17"
     implementation 'io.github.cdimascio:dotenv-kotlin:6.4.1'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     // java
