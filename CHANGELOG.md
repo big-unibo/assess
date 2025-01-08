@@ -1,3 +1,13 @@
+## [1.0.130](https://github.com/big-unibo/assess/compare/1.0.129...1.0.130) (2025-01-08)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.95 ([f74d797](https://github.com/big-unibo/assess/commit/f74d79774438eec5874e4304d1f89a5c87248553))
+
+### Bug Fixes
+
+* krangle version and drop compatibility with Java 8 ([#506](https://github.com/big-unibo/assess/issues/506)) ([c74322f](https://github.com/big-unibo/assess/commit/c74322fed83e7c2127556eede9b435e0c122b2fe))
+
 ## [1.0.129](https://github.com/big-unibo/assess/compare/1.0.128...1.0.129) (2024-07-30)
 
 
