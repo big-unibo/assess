@@ -1,3 +1,23 @@
+## [1.0.131](https://github.com/big-unibo/assess/compare/1.0.130...1.0.131) (2025-01-11)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.118 ([#499](https://github.com/big-unibo/assess/issues/499)) ([c5f5088](https://github.com/big-unibo/assess/commit/c5f5088a3558ccfed84644d1f5977fe61a0160af))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.119 ([#509](https://github.com/big-unibo/assess/issues/509)) ([50030fb](https://github.com/big-unibo/assess/commit/50030fbfb96971c7b221d9c91cfa05d0357d0769))
+* **deps:** update dependency sqlalchemy to v2.0.36 ([#494](https://github.com/big-unibo/assess/issues/494)) ([cc01eb0](https://github.com/big-unibo/assess/commit/cc01eb09f872ce2b16f6d1492b5d8c9853ae3ab5))
+* **deps:** update dependency sqlalchemy to v2.0.37 ([#513](https://github.com/big-unibo/assess/issues/513)) ([e19d488](https://github.com/big-unibo/assess/commit/e19d488c52392024e918b84fde973bd1c07e77eb))
+* **deps:** update plugin org.gretty to v3.1.5 ([#507](https://github.com/big-unibo/assess/issues/507)) ([a025a22](https://github.com/big-unibo/assess/commit/a025a22dbc0bfabd75997f23515a3f3872528251))
+* **deps:** update plugin org.jetbrains.kotlin.jvm to v2.0.21 ([#495](https://github.com/big-unibo/assess/issues/495)) ([9877c76](https://github.com/big-unibo/assess/commit/9877c76392a0b7d3b14a43667614a2eec66c396a))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.17.3 ([#510](https://github.com/big-unibo/assess/issues/510)) ([d8e4e29](https://github.com/big-unibo/assess/commit/d8e4e29cd07c5e5ac1d7d245a9de18e2f1fc23aa))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.2.2 ([#493](https://github.com/big-unibo/assess/issues/493)) ([aa3173f](https://github.com/big-unibo/assess/commit/aa3173f3cbbf696c8e77e5a3983c481addd83652))
+* **deps:** update actions/setup-node action to v4.0.4 ([#508](https://github.com/big-unibo/assess/issues/508)) ([c5f7eec](https://github.com/big-unibo/assess/commit/c5f7eec7d47f07b055edef2cb98f47b90702b9d7))
+
 ## [1.0.130](https://github.com/big-unibo/assess/compare/1.0.129...1.0.130) (2025-01-08)
 
 ### Dependency updates
