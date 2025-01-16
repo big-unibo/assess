@@ -1,3 +1,19 @@
+## [1.0.139](https://github.com/big-unibo/assess/compare/1.0.138...1.0.139) (2025-01-16)
+
+### Dependency updates
+
+* **deps:** update node.js to 20.18 ([#491](https://github.com/big-unibo/assess/issues/491)) ([3b0d671](https://github.com/big-unibo/assess/commit/3b0d67165cca3cdff8445cacc63daf1bbce91be0))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.18.2 ([#520](https://github.com/big-unibo/assess/issues/520)) ([00d8c5a](https://github.com/big-unibo/assess/commit/00d8c5aee7c64497e17c7a86669388635b832d1c))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.2.2 ([#518](https://github.com/big-unibo/assess/issues/518)) ([f960d3a](https://github.com/big-unibo/assess/commit/f960d3a0171d6958917ad1810f4c7b09f7ebf495))
+* **deps:** update actions/setup-java action to v4.6.0 ([#503](https://github.com/big-unibo/assess/issues/503)) ([2a49597](https://github.com/big-unibo/assess/commit/2a49597af2ad2c961ace84ce1f450c2cdf1b7541))
+* **deps:** update actions/setup-node action to v4.1.0 ([#519](https://github.com/big-unibo/assess/issues/519)) ([8d8f385](https://github.com/big-unibo/assess/commit/8d8f385b2ce6351281502a12d97b1b57f5bc9aa7))
+
 ## [1.0.138](https://github.com/big-unibo/assess/compare/1.0.137...1.0.138) (2025-01-15)
 
 ### Bug Fixes
