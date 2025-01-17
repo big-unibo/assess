@@ -1,3 +1,9 @@
+## [1.0.141](https://github.com/big-unibo/assess/compare/1.0.140...1.0.141) (2025-01-17)
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.10.0 ([#498](https://github.com/big-unibo/assess/issues/498)) ([81a01f3](https://github.com/big-unibo/assess/commit/81a01f347c6fe6d4b33aacd87ea82b49f3965d90))
+
 ## [1.0.140](https://github.com/big-unibo/assess/compare/1.0.139...1.0.140) (2025-01-16)
 
 ### Bug Fixes
