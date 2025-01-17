@@ -1,3 +1,9 @@
+## [1.0.142](https://github.com/big-unibo/assess/compare/1.0.141...1.0.142) (2025-01-17)
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.holgerbrandl:krangl to v0.18.4 ([#522](https://github.com/big-unibo/assess/issues/522)) ([7d59e12](https://github.com/big-unibo/assess/commit/7d59e12ebdcca29695568b0c07f36c3f563fd19c))
+
 ## [1.0.141](https://github.com/big-unibo/assess/compare/1.0.140...1.0.141) (2025-01-17)
 
 ### Bug Fixes
