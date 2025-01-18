@@ -1,3 +1,9 @@
+## [1.0.146](https://github.com/big-unibo/assess/compare/1.0.145...1.0.146) (2025-01-18)
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.13.0 ([#525](https://github.com/big-unibo/assess/issues/525)) ([fa3e2f1](https://github.com/big-unibo/assess/commit/fa3e2f1407a3af1e67c5d582a9cb8148338179fe))
+
 ## [1.0.145](https://github.com/big-unibo/assess/compare/1.0.144...1.0.145) (2025-01-18)
 
 ### Bug Fixes
