@@ -1,3 +1,10 @@
+## [1.0.147](https://github.com/big-unibo/assess/compare/1.0.146...1.0.147) (2025-01-19)
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.17.0 ([#497](https://github.com/big-unibo/assess/issues/497)) ([4a19abf](https://github.com/big-unibo/assess/commit/4a19abfa69916562bbbdbf53b0b6a4feaaaa5a17))
+* **deps:** update junit5 monorepo to v5.11.4 ([#500](https://github.com/big-unibo/assess/issues/500)) ([883c255](https://github.com/big-unibo/assess/commit/883c2556235de3a98a8ac50b966120cbff713915))
+
 ## [1.0.146](https://github.com/big-unibo/assess/compare/1.0.145...1.0.146) (2025-01-18)
 
 ### Bug Fixes
