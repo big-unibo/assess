@@ -1,3 +1,21 @@
+## [1.0.151](https://github.com/big-unibo/assess/compare/1.0.150...1.0.151) (2025-02-11)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.121 ([#533](https://github.com/big-unibo/assess/issues/533)) ([40cb315](https://github.com/big-unibo/assess/commit/40cb3155f5ad399c8a73264994a65dd09ea17f54))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.122 ([#534](https://github.com/big-unibo/assess/issues/534)) ([d4ca3c1](https://github.com/big-unibo/assess/commit/d4ca3c1f663ead7e3dca566d11095567353eae4b))
+* **deps:** update dependency sqlalchemy to v2.0.38 ([#535](https://github.com/big-unibo/assess/issues/535)) ([a8b4c85](https://github.com/big-unibo/assess/commit/a8b4c85627840acb0e77adf99631d82e213aff60))
+* **deps:** update node.js to 22.14 ([#536](https://github.com/big-unibo/assess/issues/536)) ([2662e9d](https://github.com/big-unibo/assess/commit/2662e9de64ac1a97c0db799ddc8132333ececfda))
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v3.1.0 ([#537](https://github.com/big-unibo/assess/issues/537)) ([fa027b7](https://github.com/big-unibo/assess/commit/fa027b76df006802ef7c745ead595b160b1d73f1))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.7.0 ([#532](https://github.com/big-unibo/assess/issues/532)) ([d436b14](https://github.com/big-unibo/assess/commit/d436b1400c493a6eb5d9962eacb013b6a61ae979))
+* **deps:** update actions/setup-node action to v4.2.0 ([#531](https://github.com/big-unibo/assess/issues/531)) ([b8c0022](https://github.com/big-unibo/assess/commit/b8c0022822fbbd2cd217155ddb4c2ad4ecab22ca))
+
 ## [1.0.150](https://github.com/big-unibo/assess/compare/1.0.149...1.0.150) (2025-01-20)
 
 ### Bug Fixes
