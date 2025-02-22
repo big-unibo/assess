@@ -1,3 +1,15 @@
+## [1.0.152](https://github.com/big-unibo/assess/compare/1.0.151...1.0.152) (2025-02-22)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#538](https://github.com/big-unibo/assess/issues/538)) ([6eb81b9](https://github.com/big-unibo/assess/commit/6eb81b9555f1c19e25b7dcaa6b62855df2a0a511))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([#539](https://github.com/big-unibo/assess/issues/539)) ([ab7979b](https://github.com/big-unibo/assess/commit/ab7979b1c10ce915f88eec18c50d3e1201930298))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([#540](https://github.com/big-unibo/assess/issues/540)) ([6e7397b](https://github.com/big-unibo/assess/commit/6e7397b727b5e6e46c7ebf2c13bf1ba8b2f5d132))
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.cdimascio:dotenv-kotlin to v6.5.1 ([#542](https://github.com/big-unibo/assess/issues/542)) ([2365827](https://github.com/big-unibo/assess/commit/2365827a206194af3edb6d6f017d3de037240593))
+
 ## [1.0.151](https://github.com/big-unibo/assess/compare/1.0.150...1.0.151) (2025-02-11)
 
 ### Dependency updates
