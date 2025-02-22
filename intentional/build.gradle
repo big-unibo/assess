@@ -35,7 +35,7 @@ dependencies {
     // kotlin
     //implementation 'de.mpicbg.scicomp:krangl:0.15.3'
     implementation "com.github.holgerbrandl:krangl:0.18.4"
-    implementation 'io.github.cdimascio:dotenv-kotlin:6.5.0'
+    implementation 'io.github.cdimascio:dotenv-kotlin:6.5.1'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
     // java
     implementation 'mysql:mysql-connector-java:8.0.33'
