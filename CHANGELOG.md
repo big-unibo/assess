@@ -1,3 +1,9 @@
+## [1.0.155](https://github.com/big-unibo/assess/compare/1.0.154...1.0.155) (2025-03-01)
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.18.3 ([#545](https://github.com/big-unibo/assess/issues/545)) ([187aeb4](https://github.com/big-unibo/assess/commit/187aeb4d5b9a028d53001b2f9b146324f5269466))
+
 ## [1.0.154](https://github.com/big-unibo/assess/compare/1.0.153...1.0.154) (2025-02-25)
 
 ### Bug Fixes
