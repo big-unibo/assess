@@ -1,3 +1,9 @@
+## [1.0.159](https://github.com/big-unibo/assess/compare/1.0.158...1.0.159) (2025-03-27)
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v3.1.2 ([#551](https://github.com/big-unibo/assess/issues/551)) ([bd19eee](https://github.com/big-unibo/assess/commit/bd19eee50c13c0cc518418ac44f1adcd739a9109))
+
 ## [1.0.158](https://github.com/big-unibo/assess/compare/1.0.157...1.0.158) (2025-03-24)
 
 ### Bug Fixes
