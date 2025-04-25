@@ -1,3 +1,18 @@
+## [1.0.161](https://github.com/big-unibo/assess/compare/1.0.160...1.0.161) (2025-04-25)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.126 ([#557](https://github.com/big-unibo/assess/issues/557)) ([aa3ecc0](https://github.com/big-unibo/assess/commit/aa3ecc0977d788221a77655b90708ff7a2bd6f4f))
+* **deps:** update node.js to 22.15 ([#556](https://github.com/big-unibo/assess/issues/556)) ([a1f537a](https://github.com/big-unibo/assess/commit/a1f537a2a34f6f714ce3b05913c450b58f464d98))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.19.0 ([#558](https://github.com/big-unibo/assess/issues/558)) ([d83c7ba](https://github.com/big-unibo/assess/commit/d83c7ba9f816fe57af0bdf556fa8f6b43e00144e))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.4.0 ([#555](https://github.com/big-unibo/assess/issues/555)) ([aaceb1f](https://github.com/big-unibo/assess/commit/aaceb1ff2f2587ce35b208a5a20c25be111bd773))
+
 ## [1.0.160](https://github.com/big-unibo/assess/compare/1.0.159...1.0.160) (2025-04-12)
 
 ### Dependency updates
