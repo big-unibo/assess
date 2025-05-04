@@ -1,3 +1,13 @@
+## [1.0.163](https://github.com/big-unibo/assess/compare/1.0.162...1.0.163) (2025-05-04)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.127 ([#560](https://github.com/big-unibo/assess/issues/560)) ([d65db16](https://github.com/big-unibo/assess/commit/d65db1660bf120f653e271c053160f15d9a4d7c7))
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.11 ([#561](https://github.com/big-unibo/assess/issues/561)) ([d2760d7](https://github.com/big-unibo/assess/commit/d2760d703b46783f5a6cfa18cbca8fa6463b16ad))
+
 ## [1.0.162](https://github.com/big-unibo/assess/compare/1.0.161...1.0.162) (2025-04-26)
 
 ### Bug Fixes
