@@ -1,3 +1,14 @@
+## [1.0.165](https://github.com/big-unibo/assess/compare/1.0.164...1.0.165) (2025-05-17)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.128 ([#563](https://github.com/big-unibo/assess/issues/563)) ([79fc44c](https://github.com/big-unibo/assess/commit/79fc44c6d8c1612d412dfb4cff9de776e98790f2))
+* **deps:** update dependency sqlalchemy to v2.0.41 ([#564](https://github.com/big-unibo/assess/issues/564)) ([4a3c0ef](https://github.com/big-unibo/assess/commit/4a3c0efd6526417fa4d6e4492f4bec37ef072112))
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20250517 ([#565](https://github.com/big-unibo/assess/issues/565)) ([4b02b39](https://github.com/big-unibo/assess/commit/4b02b3909c7fd40a5aa107fe76078daee4bab8ac))
+
 ## [1.0.164](https://github.com/big-unibo/assess/compare/1.0.163...1.0.164) (2025-05-05)
 
 ### Bug Fixes
