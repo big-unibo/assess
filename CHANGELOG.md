@@ -1,3 +1,17 @@
+## [1.0.166](https://github.com/big-unibo/assess/compare/1.0.165...1.0.166) (2025-06-02)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.129 ([#566](https://github.com/big-unibo/assess/issues/566)) ([8ccc9ff](https://github.com/big-unibo/assess/commit/8ccc9ff347f66a2c5a14caafa14c48b622aa976f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.131 ([#568](https://github.com/big-unibo/assess/issues/568)) ([7000e7b](https://github.com/big-unibo/assess/commit/7000e7b1a632942595fdd02b9451c128b0447cbb))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.132 ([#569](https://github.com/big-unibo/assess/issues/569)) ([cd522f0](https://github.com/big-unibo/assess/commit/cd522f01c21d2572529de3e6c787cb431758993d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.133 ([#570](https://github.com/big-unibo/assess/issues/570)) ([5de9188](https://github.com/big-unibo/assess/commit/5de91886fcd2d3bc6555f77cef7c6bef169a66db))
+* **deps:** update node.js to 22.16 ([#567](https://github.com/big-unibo/assess/issues/567)) ([c8a2ee4](https://github.com/big-unibo/assess/commit/c8a2ee411aabc621181f33b7f60bf549ea4db2e9))
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.11.1 ([#571](https://github.com/big-unibo/assess/issues/571)) ([2013e8f](https://github.com/big-unibo/assess/commit/2013e8f1c1cdc181cb1e005c5dea2b731e7deb0f))
+
 ## [1.0.165](https://github.com/big-unibo/assess/compare/1.0.164...1.0.165) (2025-05-17)
 
 ### Dependency updates
