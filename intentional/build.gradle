@@ -52,7 +52,7 @@ dependencies {
     implementation 'org.slf4j:slf4j-log4j12:2.0.17'
     implementation 'org.json:json:20250517'
     implementation 'com.google.guava:guava:32.0.1-jre'
-    implementation 'com.opencsv:opencsv:5.11'
+    implementation 'com.opencsv:opencsv:5.11.1'
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.19.0'
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.19.0'
     implementation 'com.oracle.ojdbc:ojdbc8:19.3.0.0'
