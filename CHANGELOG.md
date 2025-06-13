@@ -1,3 +1,13 @@
+## [1.0.168](https://github.com/big-unibo/assess/compare/1.0.167...1.0.168) (2025-06-13)
+
+### Dependency updates
+
+* **deps:** update dependency requests to v2.32.4 ([#573](https://github.com/big-unibo/assess/issues/573)) ([334c14d](https://github.com/big-unibo/assess/commit/334c14d1d989ea8a74811a9c4bc0378541c9f120))
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v3.2.0 ([#574](https://github.com/big-unibo/assess/issues/574)) ([241ebd3](https://github.com/big-unibo/assess/commit/241ebd34e285933706cbc139b89c51e02586f528))
+
 ## [1.0.167](https://github.com/big-unibo/assess/compare/1.0.166...1.0.167) (2025-06-07)
 
 ### Bug Fixes
