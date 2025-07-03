@@ -1,3 +1,16 @@
+## [1.0.172](https://github.com/big-unibo/assess/compare/1.0.171...1.0.172) (2025-07-03)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.134 ([#581](https://github.com/big-unibo/assess/issues/581)) ([e9d1e3c](https://github.com/big-unibo/assess/commit/e9d1e3c23bccfbf2847cd7ccae06a1717b4e94f9))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.135 ([#582](https://github.com/big-unibo/assess/issues/582)) ([613fe85](https://github.com/big-unibo/assess/commit/613fe852247d9d9e919c7d53040241fd5c63e138))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.136 ([#583](https://github.com/big-unibo/assess/issues/583)) ([551ca2d](https://github.com/big-unibo/assess/commit/551ca2d11106209d2d2418d3975e21a777ec02dd))
+* **deps:** update node.js to 22.17 ([#580](https://github.com/big-unibo/assess/issues/580)) ([69e754f](https://github.com/big-unibo/assess/commit/69e754ff73da410a3436a3930f9f72a4ed766964))
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v3.2.1 ([#585](https://github.com/big-unibo/assess/issues/585)) ([b3f1df9](https://github.com/big-unibo/assess/commit/b3f1df91144de2cb75e4b300d7dc705cde727ba0))
+
 ## [1.0.171](https://github.com/big-unibo/assess/compare/1.0.170...1.0.171) (2025-06-22)
 
 ### Bug Fixes
