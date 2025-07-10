@@ -1,3 +1,9 @@
+## [1.0.173](https://github.com/big-unibo/assess/compare/1.0.172...1.0.173) (2025-07-10)
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.18.0 ([#586](https://github.com/big-unibo/assess/issues/586)) ([663949f](https://github.com/big-unibo/assess/commit/663949fb35063557e6f42a4ace502bfffdc8461d))
+
 ## [1.0.172](https://github.com/big-unibo/assess/compare/1.0.171...1.0.172) (2025-07-03)
 
 ### Dependency updates
