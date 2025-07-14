@@ -1,3 +1,13 @@
+## [1.0.174](https://github.com/big-unibo/assess/compare/1.0.173...1.0.174) (2025-07-14)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.137 ([#587](https://github.com/big-unibo/assess/issues/587)) ([67c3859](https://github.com/big-unibo/assess/commit/67c385951d59eaef485b28f47f9e5b8c822849a4))
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v3.2.2 ([#588](https://github.com/big-unibo/assess/issues/588)) ([8d75d4a](https://github.com/big-unibo/assess/commit/8d75d4aa6500179e8dc3fa1f3572b688c0b89df8))
+
 ## [1.0.173](https://github.com/big-unibo/assess/compare/1.0.172...1.0.173) (2025-07-10)
 
 ### Bug Fixes
