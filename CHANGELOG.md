@@ -1,3 +1,9 @@
+## [1.0.176](https://github.com/big-unibo/assess/compare/1.0.175...1.0.176) (2025-07-19)
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.datatype:jackson-datatype-jsr310 to v2.19.2 ([#591](https://github.com/big-unibo/assess/issues/591)) ([c52ac44](https://github.com/big-unibo/assess/commit/c52ac4460a7073e4ff0130ca1c8e39c5886ec0b3))
+
 ## [1.0.175](https://github.com/big-unibo/assess/compare/1.0.174...1.0.175) (2025-07-19)
 
 ### Dependency updates
