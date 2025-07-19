@@ -1,3 +1,9 @@
+## [1.0.177](https://github.com/big-unibo/assess/compare/1.0.176...1.0.177) (2025-07-19)
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.20.0 ([#592](https://github.com/big-unibo/assess/issues/592)) ([5298ae7](https://github.com/big-unibo/assess/commit/5298ae75bf73b3deb63235f490a7599d43fa5d9a))
+
 ## [1.0.176](https://github.com/big-unibo/assess/compare/1.0.175...1.0.176) (2025-07-19)
 
 ### Bug Fixes
