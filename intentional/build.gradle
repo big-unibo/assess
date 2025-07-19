@@ -54,7 +54,7 @@ dependencies {
     implementation 'com.google.guava:guava:32.0.1-jre'
     implementation 'com.opencsv:opencsv:5.11.2'
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.19.2'
-    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.19.1'
+    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.19.2'
     implementation 'com.oracle.ojdbc:ojdbc8:19.3.0.0'
     implementation 'org.jooq:jool:0.9.15'
     // Test
