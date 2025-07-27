@@ -1,3 +1,13 @@
+## [1.0.178](https://github.com/big-unibo/assess/compare/1.0.177...1.0.178) (2025-07-27)
+
+### Dependency updates
+
+* **deps:** update plugin org.gretty to v3.1.7 ([#594](https://github.com/big-unibo/assess/issues/594)) ([e880b7b](https://github.com/big-unibo/assess/commit/e880b7bd8a8c2e9cc625e962b897b1293a54c29b))
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.12.0 ([#595](https://github.com/big-unibo/assess/issues/595)) ([72d4e68](https://github.com/big-unibo/assess/commit/72d4e68ca67f7ceeefbb1097a5bc533c8823642f))
+
 ## [1.0.177](https://github.com/big-unibo/assess/compare/1.0.176...1.0.177) (2025-07-19)
 
 ### Bug Fixes
