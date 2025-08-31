@@ -1,3 +1,23 @@
+## [1.0.181](https://github.com/big-unibo/assess/compare/1.0.180...1.0.181) (2025-08-31)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.139 ([#601](https://github.com/big-unibo/assess/issues/601)) ([52fbac0](https://github.com/big-unibo/assess/commit/52fbac0121dcb9ab4f40ec200d66daa20866ef26))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.140 ([#606](https://github.com/big-unibo/assess/issues/606)) ([012d4f0](https://github.com/big-unibo/assess/commit/012d4f0cb88d2c5f9eead33da33bfd8c52aa6791))
+* **deps:** update dependency sqlalchemy to v2.0.43 ([#603](https://github.com/big-unibo/assess/issues/603)) ([2b1b32e](https://github.com/big-unibo/assess/commit/2b1b32e0769d7b0396e63ac0f19902bcd241ad70))
+* **deps:** update node.js to 22.18 ([#600](https://github.com/big-unibo/assess/issues/600)) ([8282b62](https://github.com/big-unibo/assess/commit/8282b62a14c670740de9b44e17ae4630ea66882e))
+* **deps:** update node.js to 22.19 ([#609](https://github.com/big-unibo/assess/issues/609)) ([0960f6f](https://github.com/big-unibo/assess/commit/0960f6f53ff4c10fb2e36b1a41f2db2287c5fa10))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.20.0 ([#610](https://github.com/big-unibo/assess/issues/610)) ([d333eda](https://github.com/big-unibo/assess/commit/d333eda76f0f584d4e37c42e42de080f43d7ec96))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.3.0 ([#604](https://github.com/big-unibo/assess/issues/604)) ([ee6ea3f](https://github.com/big-unibo/assess/commit/ee6ea3f063c0b0d1b4616e02d94aa5dc34de8608))
+* **deps:** update actions/checkout action to v5 ([#605](https://github.com/big-unibo/assess/issues/605)) ([a2623de](https://github.com/big-unibo/assess/commit/a2623de71bd534785e4e9630538d5640a5b13f1f))
+* **deps:** update actions/setup-java action to v5 ([#608](https://github.com/big-unibo/assess/issues/608)) ([9c216e3](https://github.com/big-unibo/assess/commit/9c216e315e9e25ac869eda1a3a59c55365b1ce1d))
+
 ## [1.0.180](https://github.com/big-unibo/assess/compare/1.0.179...1.0.180) (2025-07-30)
 
 ### Dependency updates
