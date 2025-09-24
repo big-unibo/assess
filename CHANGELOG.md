@@ -1,3 +1,23 @@
+## [1.0.183](https://github.com/big-unibo/assess/compare/1.0.182...1.0.183) (2025-09-24)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.142 ([#615](https://github.com/big-unibo/assess/issues/615)) ([5dbd42d](https://github.com/big-unibo/assess/commit/5dbd42d1dbdc39560cf6a0a90bef9afcb298a025))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.143 ([#616](https://github.com/big-unibo/assess/issues/616)) ([b2ffa49](https://github.com/big-unibo/assess/commit/b2ffa498aa4ce76fa913824cb1813ec5e516a2e6))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.145 ([#618](https://github.com/big-unibo/assess/issues/618)) ([1fdee38](https://github.com/big-unibo/assess/commit/1fdee3897f7b9919aa13e2012bab7ddd4a4442e4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.146 ([#620](https://github.com/big-unibo/assess/issues/620)) ([cd4f16f](https://github.com/big-unibo/assess/commit/cd4f16feba67a35b43f5094406499c5e0c2d4d06))
+* **deps:** update node.js to 22.20 ([#621](https://github.com/big-unibo/assess/issues/621)) ([795bb0f](https://github.com/big-unibo/assess/commit/795bb0f4f1881e99f28c780d7adf9f9692b294de))
+* **deps:** update plugin org.gretty to v3.1.8 ([#619](https://github.com/big-unibo/assess/issues/619)) ([0ac35e5](https://github.com/big-unibo/assess/commit/0ac35e5ae822e72b5eb6120469fcd97a0e326e7c))
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.19.0 ([#622](https://github.com/big-unibo/assess/issues/622)) ([078cc0c](https://github.com/big-unibo/assess/commit/078cc0c3790b2800c0af3ec97710ed4c752839aa))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v5 ([#613](https://github.com/big-unibo/assess/issues/613)) ([dfa055f](https://github.com/big-unibo/assess/commit/dfa055f034c61999f8468e8da1a62ee153d62aec))
+* **deps:** update actions/setup-python action to v6 ([#614](https://github.com/big-unibo/assess/issues/614)) ([668ea33](https://github.com/big-unibo/assess/commit/668ea3383fe27ac7b3a933bc55198466ea72966a))
+
 ## [1.0.182](https://github.com/big-unibo/assess/compare/1.0.181...1.0.182) (2025-09-07)
 
 ### Dependency updates
