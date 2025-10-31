@@ -1,3 +1,25 @@
+## [1.0.184](https://github.com/big-unibo/assess/compare/1.0.183...1.0.184) (2025-10-31)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.147 ([#623](https://github.com/big-unibo/assess/issues/623)) ([de55f78](https://github.com/big-unibo/assess/commit/de55f7823ebe1f09e607645b2027565b592f2298))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.148 ([#628](https://github.com/big-unibo/assess/issues/628)) ([e77d29a](https://github.com/big-unibo/assess/commit/e77d29a6752f623410c6cebb15deccab4e86f80d))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.149 ([#629](https://github.com/big-unibo/assess/issues/629)) ([43cb8f1](https://github.com/big-unibo/assess/commit/43cb8f1b6b75e186bd29a49f720ee7e3d71148ea))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.151 ([#631](https://github.com/big-unibo/assess/issues/631)) ([ec7915e](https://github.com/big-unibo/assess/commit/ec7915e8eae1be1b0f0585a1a3adf21daa6ebd03))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.152 ([#632](https://github.com/big-unibo/assess/issues/632)) ([f808753](https://github.com/big-unibo/assess/commit/f8087539d704a6045624e6adfd50ea6843beeed6))
+* **deps:** update dependency sqlalchemy to v2.0.44 ([#625](https://github.com/big-unibo/assess/issues/625)) ([da3e16f](https://github.com/big-unibo/assess/commit/da3e16f810f0c669cb8aa488b44a5aabacaa2f79))
+* **deps:** update node.js to 22.21 ([#630](https://github.com/big-unibo/assess/issues/630)) ([6b16f79](https://github.com/big-unibo/assess/commit/6b16f79420cca5c8d07f17c0e0efd2aa3a076289))
+* **deps:** update node.js to v24 ([#634](https://github.com/big-unibo/assess/issues/634)) ([8121f05](https://github.com/big-unibo/assess/commit/8121f053bcca6ed4426b3934d8d1c1db2cbb0cc1))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.20.1 ([#635](https://github.com/big-unibo/assess/issues/635)) ([d4127bb](https://github.com/big-unibo/assess/commit/d4127bbf7e266f3733f6f9e0a12f8637ba080aec))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6 ([#627](https://github.com/big-unibo/assess/issues/627)) ([b60c9ad](https://github.com/big-unibo/assess/commit/b60c9ad189fc92b54d8119ee958d18512d7e8c7b))
+* **deps:** update actions/upload-artifact action to v5 ([#633](https://github.com/big-unibo/assess/issues/633)) ([61661ad](https://github.com/big-unibo/assess/commit/61661adc1b66ab949e48297aec0e7aecaafc8d16))
+
 ## [1.0.183](https://github.com/big-unibo/assess/compare/1.0.182...1.0.183) (2025-09-24)
 
 ### Dependency updates
