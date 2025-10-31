@@ -1,3 +1,13 @@
+## [1.0.185](https://github.com/big-unibo/assess/compare/1.0.184...1.0.185) (2025-10-31)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.153 ([#637](https://github.com/big-unibo/assess/issues/637)) ([2f2f501](https://github.com/big-unibo/assess/commit/2f2f50145362dec528f62aa544593b6e07b196c1))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.datatype:jackson-datatype-jsr310 to v2.20.1 ([#636](https://github.com/big-unibo/assess/issues/636)) ([704bfc2](https://github.com/big-unibo/assess/commit/704bfc29d52cc24352d267f99cede63efa6c076f))
+
 ## [1.0.184](https://github.com/big-unibo/assess/compare/1.0.183...1.0.184) (2025-10-31)
 
 ### Dependency updates
