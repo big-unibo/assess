@@ -24,7 +24,7 @@ jobs:
           java-version: '14' # ${{ matrix.java }}
       - uses: actions/setup-python@v6
         with:
-          python-version: 3.8
+          python-version: 3.14
       - name: Run python
         run: |
           cd intentional/src/main/python
