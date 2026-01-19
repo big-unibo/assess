@@ -1,3 +1,26 @@
+## [1.0.188](https://github.com/big-unibo/assess/compare/1.0.187...1.0.188) (2026-01-19)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.157 ([#643](https://github.com/big-unibo/assess/issues/643)) ([b76a457](https://github.com/big-unibo/assess/commit/b76a45734270d96c859b2116cc158006e0277f45))
+* **deps:** update dependency sqlalchemy to v2.0.45 ([#650](https://github.com/big-unibo/assess/issues/650)) ([16b4557](https://github.com/big-unibo/assess/commit/16b4557533846ccc95bfe0d1781c83651c6f3ffd))
+* **deps:** update node.js to 24.12 ([#651](https://github.com/big-unibo/assess/issues/651)) ([88c5559](https://github.com/big-unibo/assess/commit/88c5559a55ee1483c6dd07917251fd41b42f472d))
+* **deps:** update node.js to 24.13 ([#653](https://github.com/big-unibo/assess/issues/653)) ([a67a656](https://github.com/big-unibo/assess/commit/a67a6569b4a817becb50635968581bf80160a613))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.0 ([#655](https://github.com/big-unibo/assess/issues/655)) ([2f320c5](https://github.com/big-unibo/assess/commit/2f320c5e96f9ec24262730d7324a45df5fc17d02))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v5.0.1 ([#644](https://github.com/big-unibo/assess/issues/644)) ([8e5837f](https://github.com/big-unibo/assess/commit/8e5837f268f6d7e9fa683d1eab3136dde0e746f4))
+* **deps:** update actions/checkout action to v6 ([#645](https://github.com/big-unibo/assess/issues/645)) ([a9720b8](https://github.com/big-unibo/assess/commit/a9720b815c4c9cfc2ed1854149b588bd700a6b30))
+* **deps:** update actions/checkout action to v6.0.1 ([#647](https://github.com/big-unibo/assess/issues/647)) ([5191b59](https://github.com/big-unibo/assess/commit/5191b59e39d7e14aa07eabdb114398e9003e9279))
+* **deps:** update actions/setup-java action to v5.1.0 ([#649](https://github.com/big-unibo/assess/issues/649)) ([40e45a3](https://github.com/big-unibo/assess/commit/40e45a3803dd2af1bcfe4ee96ed2ea3b6ee541bc))
+* **deps:** update actions/setup-node action to v6.1.0 ([#648](https://github.com/big-unibo/assess/issues/648)) ([48a6107](https://github.com/big-unibo/assess/commit/48a6107554060ebd752750ddbd28a9018576aedb))
+* **deps:** update actions/setup-node action to v6.2.0 ([#654](https://github.com/big-unibo/assess/issues/654)) ([f630d3d](https://github.com/big-unibo/assess/commit/f630d3d0be674ec86c44301095eb28a045932f00))
+* **deps:** update actions/upload-artifact action to v6 ([#652](https://github.com/big-unibo/assess/issues/652)) ([7922d39](https://github.com/big-unibo/assess/commit/7922d39b4dc9cff582d03720b96ff957d644123e))
+
 ## [1.0.187](https://github.com/big-unibo/assess/compare/1.0.186...1.0.187) (2025-11-16)
 
 ### Dependency updates
