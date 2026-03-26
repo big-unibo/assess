@@ -1,3 +1,20 @@
+## [1.0.190](https://github.com/big-unibo/assess/compare/1.0.189...1.0.190) (2026-03-26)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.47 ([#661](https://github.com/big-unibo/assess/issues/661)) ([86eb3cb](https://github.com/big-unibo/assess/commit/86eb3cb098a0b2adf26676b58c10c2fbd42df5fe))
+* **deps:** update dependency sqlalchemy to v2.0.48 ([#664](https://github.com/big-unibo/assess/issues/664)) ([8d2a5ec](https://github.com/big-unibo/assess/commit/8d2a5ece3317c57d7191ad908f557d24d2f524bd))
+* **deps:** update node.js to 24.14 ([#662](https://github.com/big-unibo/assess/issues/662)) ([28ae0b1](https://github.com/big-unibo/assess/commit/28ae0b12143aec78897b3eae798adb86484517ec))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.2 ([#668](https://github.com/big-unibo/assess/issues/668)) ([65edb5c](https://github.com/big-unibo/assess/commit/65edb5c293381903b38d4941453e2451c1286ffb))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.3.0 ([#665](https://github.com/big-unibo/assess/issues/665)) ([0e6831a](https://github.com/big-unibo/assess/commit/0e6831aff141dad73a8b7b092949ab4fed8346f0))
+* **deps:** update actions/upload-artifact action to v7 ([#663](https://github.com/big-unibo/assess/issues/663)) ([b0807ce](https://github.com/big-unibo/assess/commit/b0807cea4f6e9bd26c0af1033525148b6009d5bc))
+
 ## [1.0.189](https://github.com/big-unibo/assess/compare/1.0.188...1.0.189) (2026-02-23)
 
 ### Dependency updates
