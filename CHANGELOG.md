@@ -1,3 +1,13 @@
+## [1.0.193](https://github.com/big-unibo/assess/compare/1.0.192...1.0.193) (2026-05-25)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.50 ([#674](https://github.com/big-unibo/assess/issues/674)) ([952cf0a](https://github.com/big-unibo/assess/commit/952cf0a554fc5b368a5be9363d3246b06f0aa392))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.3 ([#673](https://github.com/big-unibo/assess/issues/673)) ([56166ff](https://github.com/big-unibo/assess/commit/56166ffa90c9bf43adfdd8b7d25f12d65b95550c))
+
 ## [1.0.192](https://github.com/big-unibo/assess/compare/1.0.191...1.0.192) (2026-04-20)
 
 ### Dependency updates
