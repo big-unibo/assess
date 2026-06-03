@@ -1,3 +1,13 @@
+## [1.0.195](https://github.com/big-unibo/assess/compare/1.0.194...1.0.195) (2026-06-03)
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.4 ([#678](https://github.com/big-unibo/assess/issues/678)) ([3e8fad9](https://github.com/big-unibo/assess/commit/3e8fad9e883aed1ca380140e321852d720fe0c75))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v6.0.3 ([#677](https://github.com/big-unibo/assess/issues/677)) ([765e936](https://github.com/big-unibo/assess/commit/765e936f0ff1300cfc29179d15b2c2a8ddf2ea44))
+
 ## [1.0.194](https://github.com/big-unibo/assess/compare/1.0.193...1.0.194) (2026-05-26)
 
 ### Bug Fixes
