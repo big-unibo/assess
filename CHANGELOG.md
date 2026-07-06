@@ -1,3 +1,19 @@
+## [1.0.196](https://github.com/big-unibo/assess/compare/1.0.195...1.0.196) (2026-07-06)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.51 ([#683](https://github.com/big-unibo/assess/issues/683)) ([be4d50b](https://github.com/big-unibo/assess/commit/be4d50b83ce3a1b5af47cd46dd09930779330f52))
+* **deps:** update node.js to 24.16 ([#680](https://github.com/big-unibo/assess/issues/680)) ([40a157d](https://github.com/big-unibo/assess/commit/40a157d8f78da2c0e9aa1545defd0311dadaa39d))
+* **deps:** update plugin org.gretty to v3.1.9 ([#684](https://github.com/big-unibo/assess/issues/684)) ([6ea3d95](https://github.com/big-unibo/assess/commit/6ea3d958daf9766b4c4baf26eb88d084bbb2955d))
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.22.0 ([#682](https://github.com/big-unibo/assess/issues/682)) ([b5080e1](https://github.com/big-unibo/assess/commit/b5080e1e4ee4cc2bfc117c9d7c9dca7bb870cdcd))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v6.4.0 ([#681](https://github.com/big-unibo/assess/issues/681)) ([713d097](https://github.com/big-unibo/assess/commit/713d0973532aa0b2e91d5dd53edb58f00b2e08da))
+
 ## [1.0.195](https://github.com/big-unibo/assess/compare/1.0.194...1.0.195) (2026-06-03)
 
 ### Bug Fixes
