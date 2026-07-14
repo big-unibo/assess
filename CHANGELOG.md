@@ -1,3 +1,13 @@
+## [1.0.197](https://github.com/big-unibo/assess/compare/1.0.196...1.0.197) (2026-07-14)
+
+### Dependency updates
+
+* **deps:** update node.js to 24.18 ([#686](https://github.com/big-unibo/assess/issues/686)) ([f6737ec](https://github.com/big-unibo/assess/commit/f6737ec2f107d1aeef420d4f57288faa6aa39e44))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.5 ([#688](https://github.com/big-unibo/assess/issues/688)) ([db468a5](https://github.com/big-unibo/assess/commit/db468a5a562bf9adb7d8aedcbc034540fb5c501b))
+
 ## [1.0.196](https://github.com/big-unibo/assess/compare/1.0.195...1.0.196) (2026-07-06)
 
 ### Dependency updates
