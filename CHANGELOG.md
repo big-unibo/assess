@@ -1,3 +1,19 @@
+## [1.0.198](https://github.com/big-unibo/assess/compare/1.0.197...1.0.198) (2026-08-15)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.52 ([#693](https://github.com/big-unibo/assess/issues/693)) ([d178e2c](https://github.com/big-unibo/assess/commit/d178e2c26eafe374c7bb30c57c440d76ea7e49c7))
+* **deps:** update node.js to 24.19 ([#694](https://github.com/big-unibo/assess/issues/694)) ([ef5ed13](https://github.com/big-unibo/assess/commit/ef5ed139672be2819d23db7ef047e36869af99bc))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.21.6 ([#696](https://github.com/big-unibo/assess/issues/696)) ([c8d850e](https://github.com/big-unibo/assess/commit/c8d850eb9b55674ab01fc1b8a2620c458230bc5c))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v6.1.0 ([#691](https://github.com/big-unibo/assess/issues/691)) ([2c90cdb](https://github.com/big-unibo/assess/commit/2c90cdbf984205d49e29a588185c1508edd37a89))
+* **deps:** update actions/setup-java action to v5.5.0 ([#690](https://github.com/big-unibo/assess/issues/690)) ([2afd5ac](https://github.com/big-unibo/assess/commit/2afd5ac08a2c85563e475726e4d5154927df88e9))
+
 ## [1.0.197](https://github.com/big-unibo/assess/compare/1.0.196...1.0.197) (2026-07-14)
 
 ### Dependency updates
