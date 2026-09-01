@@ -1,3 +1,18 @@
+## [1.0.199](https://github.com/big-unibo/assess/compare/1.0.198...1.0.199) (2026-09-01)
+
+### Dependency updates
+
+* **deps:** update node.js to 24.20 ([#697](https://github.com/big-unibo/assess/issues/697)) ([434fd6f](https://github.com/big-unibo/assess/commit/434fd6fd1cb81efb28f6e16fa2fe5f83cc9992c8))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.22.2 ([#700](https://github.com/big-unibo/assess/issues/700)) ([4b80283](https://github.com/big-unibo/assess/commit/4b80283e038e0dcd3491b18021b9f29b1202d56f))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v5.7.0 ([#698](https://github.com/big-unibo/assess/issues/698)) ([4ebb5b8](https://github.com/big-unibo/assess/commit/4ebb5b8bd3fa87e3a45da1c47c04176571e22623))
+* **deps:** update actions/setup-node action to v6.5.0 ([#699](https://github.com/big-unibo/assess/issues/699)) ([7a1bdee](https://github.com/big-unibo/assess/commit/7a1bdee4fa04c2685309210e76a640f55cc8796c))
+
 ## [1.0.198](https://github.com/big-unibo/assess/compare/1.0.197...1.0.198) (2026-08-15)
 
 ### Dependency updates
