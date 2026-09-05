@@ -1,3 +1,13 @@
+## [1.0.200](https://github.com/big-unibo/assess/compare/1.0.199...1.0.200) (2026-09-05)
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.19 ([#703](https://github.com/big-unibo/assess/issues/703)) ([06ab666](https://github.com/big-unibo/assess/commit/06ab666e6d2c06a5716d11e9a0cc0d8f1a78ac98))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v7 ([#701](https://github.com/big-unibo/assess/issues/701)) ([e7e29c3](https://github.com/big-unibo/assess/commit/e7e29c3d6ef2827370c048e7628864f8da342d85))
+
 ## [1.0.199](https://github.com/big-unibo/assess/compare/1.0.198...1.0.199) (2026-09-01)
 
 ### Dependency updates
