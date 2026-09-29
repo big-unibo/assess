@@ -1,3 +1,9 @@
+## [1.0.202](https://github.com/big-unibo/assess/compare/1.0.201...1.0.202) (2026-09-29)
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.20 ([#707](https://github.com/big-unibo/assess/issues/707)) ([2104f98](https://github.com/big-unibo/assess/commit/2104f981576c03626ba7a503fdce79193f21b644))
+
 ## [1.0.201](https://github.com/big-unibo/assess/compare/1.0.200...1.0.201) (2026-09-28)
 
 ### Dependency updates
