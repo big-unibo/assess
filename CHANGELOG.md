@@ -1,3 +1,9 @@
+## [1.0.203](https://github.com/big-unibo/assess/compare/1.0.202...1.0.203) (2026-10-23)
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.22.4 ([#711](https://github.com/big-unibo/assess/issues/711)) ([ed7a13d](https://github.com/big-unibo/assess/commit/ed7a13d68952c53444cbb230fd0e0b11c16583e2))
+
 ## [1.0.202](https://github.com/big-unibo/assess/compare/1.0.201...1.0.202) (2026-09-29)
 
 ### Bug Fixes
