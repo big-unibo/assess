@@ -1,3 +1,14 @@
+## [1.0.204](https://github.com/big-unibo/assess/compare/1.0.203...1.0.204) (2026-10-30)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.55 ([#710](https://github.com/big-unibo/assess/issues/710)) ([3bf9f11](https://github.com/big-unibo/assess/commit/3bf9f11b892a3d24046e1bf7bb788429a9aa9f83))
+* **deps:** update node.js to 24.22 ([#713](https://github.com/big-unibo/assess/issues/713)) ([b67c524](https://github.com/big-unibo/assess/commit/b67c52472fa2f0b25f1d18156d7be07400386847))
+
+### Bug Fixes
+
+* **deps:** update dependency org.jooq:jool to v0.9.16 ([#715](https://github.com/big-unibo/assess/issues/715)) ([f4eb38f](https://github.com/big-unibo/assess/commit/f4eb38fd87451e9cde50029759e96b1bb4b1436f))
+
 ## [1.0.203](https://github.com/big-unibo/assess/compare/1.0.202...1.0.203) (2026-10-23)
 
 ### Bug Fixes
