@@ -56,7 +56,7 @@ dependencies {
     implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.22.4'
     implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.22.4'
     implementation 'com.oracle.ojdbc:ojdbc8:19.3.0.0'
-    implementation 'org.jooq:jool:0.9.15'
+    implementation 'org.jooq:jool:0.9.16'
     // Test
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.11.4'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.11.4'
