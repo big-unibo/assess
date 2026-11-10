@@ -1,3 +1,14 @@
+## [1.0.205](https://github.com/big-unibo/assess/compare/1.0.204...1.0.205) (2026-11-10)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.158 ([#716](https://github.com/big-unibo/assess/issues/716)) ([9ec1a23](https://github.com/big-unibo/assess/commit/9ec1a23dadeca548987083a578cdc8d5b19178ca))
+* **deps:** update dependency sqlalchemy to v2.0.57 ([#717](https://github.com/big-unibo/assess/issues/717)) ([f118e12](https://github.com/big-unibo/assess/commit/f118e120d2574bcc152dd8b562e2a55ed927776e))
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.6.0 ([#718](https://github.com/big-unibo/assess/issues/718)) ([9d43dc9](https://github.com/big-unibo/assess/commit/9d43dc9c0addcbaafe72f15fa54e035e555b1c0c))
+
 ## [1.0.204](https://github.com/big-unibo/assess/compare/1.0.203...1.0.204) (2026-10-30)
 
 ### Dependency updates
