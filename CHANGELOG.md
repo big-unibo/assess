@@ -1,3 +1,13 @@
+## [1.0.207](https://github.com/big-unibo/assess/compare/1.0.206...1.0.207) (2026-11-17)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.159 ([#720](https://github.com/big-unibo/assess/issues/720)) ([60d47bc](https://github.com/big-unibo/assess/commit/60d47bc4ad4a69c5bcd565dba685db6532b9420e))
+
+### Bug Fixes
+
+* **deps:** update jackson monorepo to v2.23.0 ([#721](https://github.com/big-unibo/assess/issues/721)) ([f757a44](https://github.com/big-unibo/assess/commit/f757a44003afdd1c03f2341c7e55d1f9eed31780))
+
 ## [1.0.206](https://github.com/big-unibo/assess/compare/1.0.205...1.0.206) (2026-11-13)
 
 ### Bug Fixes
